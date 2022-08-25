@@ -1,0 +1,2408 @@
+{
+  "seo_category_infos": [
+    ["Beleza", "beauty"],
+    ["Dan\u00e7a e apresenta\u00e7\u00e3o", "dance_and_performance"],
+    ["Fitness", "fitness"],
+    ["Comida e bebida", "food_and_drink"],
+    ["Casa e jardim", "home_and_garden"],
+    ["M\u00fasica", "music"],
+    ["Artes visuais", "visual_arts"]
+  ],
+  "logging_page_id": "profilePage_13564608757",
+  "show_suggested_profiles": false,
+  "show_follow_dialog": false,
+  "graphql": {
+    "user": {
+      "biography": "\u2764 Amor pela Obstetr\u00edcia \n\ud83d\udc8d Casada com @andreos_santos\n\ud83c\udfe0 Campinas/SP\n\ud83d\udc92 Crist\u00e3",
+      "blocked_by_viewer": false,
+      "restricted_by_viewer": null,
+      "country_block": false,
+      "external_url": null,
+      "external_url_linkshimmed": null,
+      "edge_followed_by": { "count": 1866 },
+      "fbid": "17841413462725576",
+      "followed_by_viewer": false,
+      "edge_follow": { "count": 348 },
+      "follows_viewer": false,
+      "full_name": "Mariane | Obstetriz & Doula",
+      "has_ar_effects": false,
+      "has_clips": false,
+      "has_guides": false,
+      "has_channel": false,
+      "has_blocked_viewer": false,
+      "highlight_reel_count": 0,
+      "has_requested_viewer": false,
+      "hide_like_and_view_counts": false,
+      "id": "13564608757",
+      "is_business_account": false,
+      "is_professional_account": true,
+      "is_embeds_disabled": false,
+      "is_joined_recently": false,
+      "business_address_json": null,
+      "business_contact_method": "UNKNOWN",
+      "business_email": null,
+      "business_phone_number": null,
+      "business_category_name": null,
+      "overall_category_name": null,
+      "category_enum": null,
+      "category_name": "Cl\u00ednica de sa\u00fade da mulher",
+      "is_private": false,
+      "is_verified": false,
+      "edge_mutual_followed_by": { "count": 0, "edges": [] },
+      "profile_pic_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-19/s150x150/120091770_666085320713727_3367114199791304438_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=nReA0WxZPZAAX9mSLp8&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-G8kIs3l6v08bfiyrG-UViOq5rxe1ORk9Oa981tfHgAA&oe=61F17109&_nc_sid=7bff83",
+      "profile_pic_url_hd": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-19/s320x320/120091770_666085320713727_3367114199791304438_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=nReA0WxZPZAAX9mSLp8&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT8ItlXrL9cd1JyxTR-M3Xkumyx1lwiA9fYB0-oVJHOpTA&oe=61F2A8B1&_nc_sid=7bff83",
+      "requested_by_viewer": false,
+      "should_show_category": false,
+      "should_show_public_contacts": true,
+      "username": "mari.obstetriz",
+      "connected_fb_page": null,
+      "pronouns": [],
+      "edge_felix_video_timeline": {
+        "count": 2,
+        "page_info": { "has_next_page": false, "end_cursor": "" },
+        "edges": [
+          {
+            "node": {
+              "__typename": "GraphVideo",
+              "id": "2745987449732759790",
+              "shortcode": "CYbtQljAIDu",
+              "dimensions": { "height": 480, "width": 480 },
+              "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/271372839_2048937635272807_7235722654152482718_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=BR_ghpqfePkAX_qxnJQ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_hRjVIF2xBGEfoAFbNhPdotRu1UdlnrENvmNgMdPbuww&oe=61ED5363&_nc_sid=7bff83",
+              "edge_media_to_tagged_user": { "edges": [] },
+              "fact_check_overall_rating": null,
+              "fact_check_information": null,
+              "gating_info": null,
+              "sharing_friction_info": {
+                "should_have_sharing_friction": false,
+                "bloks_app_url": null
+              },
+              "media_overlay_info": null,
+              "media_preview": "ACoqrrbr+tTLbLUPmdvcmrMcm4V12PPcn1E+zrSfZ1qbdTWboPX+nNFieYha2Wo/s61aLc0nFFh8/mZRfHNTQzBcg1T9PrzV2C2y+5vmXk4HUnsOfeo51HfqbOKasyyJQcY5BoMgyPxqwfljDFGySBtGMjPc/T+tUZoiG46/0qVW/mtZvTXsY+zHrJS+ZVRzt4qPDV0KSautivZ3HqVz6VOpA5U1ng0/Nc9rqz1R0uOuhp+ccdf5VA7bzljk1TJ4pAahQjF3S1BRLjFO4zR54qkTTa1SNdOx/9k=",
+              "owner": { "id": "13564608757", "username": "mari.obstetriz" },
+              "is_video": true,
+              "has_upcoming_event": false,
+              "accessibility_caption": null,
+              "dash_info": {
+                "is_dash_eligible": false,
+                "video_dash_manifest": null,
+                "number_of_qualities": 0
+              },
+              "has_audio": false,
+              "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiYjVkM2JmYmY5N2IyNGVlNGE4NjJmOThhMWRkZTc1MTMyNzQ1OTg3NDQ5NzMyNzU5NzkwIn0sInNpZ25hdHVyZSI6IiJ9",
+              "video_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t50.16885-16/271613691_1104158663755539_4139157731349479365_n.mp4?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=GPJ_EtTW1lQAX9kCrQx&edm=ABfd0MgBAAAA&ccb=7-4&oe=61ED3BA6&oh=00_AT-nfBu81uMT_OTjk4uDIUneRgy3-Qksj14P4ipSoEMlGw&_nc_sid=7bff83",
+              "video_view_count": 90,
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "Voc\u00ea sabia que a respira\u00e7\u00e3o tem import\u00e2ncia fundamental durante o trabalho de parto e o parto?\n.\nA respira\u00e7\u00e3o \u00e9 uma grande aliada por promover o relaxamento, obter concentra\u00e7\u00e3o, diminuir riscos de trauma perineal no momento do expulsivo e melhorar a oxigena\u00e7\u00e3o sangu\u00ednea da m\u00e3e e do feto.\n.\nA realiza\u00e7\u00e3o de t\u00e9cnicas de respira\u00e7\u00e3o \u00e9 um dos m\u00e9todos n\u00e3o farmacol\u00f3gicos para al\u00edvio da dor, pois promove a diminui\u00e7\u00e3o das percep\u00e7\u00f5es de dor.\n.\nBora praticar com o peixinho? \ud83d\udc1f\n.\n\u00c9 simples! Quando ele subir, voc\u00ea inspira e no momento em que ele chegar ao topo, d\u00ea uma pausa, e quando ele descer, voc\u00ea expira.\n.\n#respiracao #respiracaoconsciente #respiracaogestante #respiracaonagestacao #respiracaonoparto #calma #concentracao #obstetricia #obstetriz #doula \n.\nMariane G. M. Santos\nObstetriz & Doula \nCOREN-SP 231"
+                    }
+                  }
+                ]
+              },
+              "edge_media_to_comment": { "count": 0 },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1641567253,
+              "edge_liked_by": { "count": 13 },
+              "edge_media_preview_like": { "count": 13 },
+              "location": {
+                "id": "100231328893572",
+                "has_public_page": true,
+                "name": "Campinas SP",
+                "slug": "campinas-sp"
+              },
+              "thumbnail_src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/271372839_2048937635272807_7235722654152482718_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=BR_ghpqfePkAX_qxnJQ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_hRjVIF2xBGEfoAFbNhPdotRu1UdlnrENvmNgMdPbuww&oe=61ED5363&_nc_sid=7bff83",
+              "thumbnail_resources": [
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/271372839_2048937635272807_7235722654152482718_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=BR_ghpqfePkAX_qxnJQ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_-XcP5x98NNOw3Q-Vy9lYKvZSFingK21G4wAqP62HU-Q&oe=61ED884F&_nc_sid=7bff83",
+                  "config_width": 150,
+                  "config_height": 150
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/271372839_2048937635272807_7235722654152482718_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=BR_ghpqfePkAX_qxnJQ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT9ldFS7Hsdv4NrsTURNtVpXIAq7HScqJ0m9lg-Exj_7ig&oe=61ED4BC7&_nc_sid=7bff83",
+                  "config_width": 240,
+                  "config_height": 240
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/271372839_2048937635272807_7235722654152482718_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=BR_ghpqfePkAX_qxnJQ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_4EZp0MqtfIfqGcZKxsllR1WY9BpgWPsDmxVHAXLLcoQ&oe=61ED319A&_nc_sid=7bff83",
+                  "config_width": 320,
+                  "config_height": 320
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/271372839_2048937635272807_7235722654152482718_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=BR_ghpqfePkAX_qxnJQ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_hRjVIF2xBGEfoAFbNhPdotRu1UdlnrENvmNgMdPbuww&oe=61ED5363&_nc_sid=7bff83",
+                  "config_width": 480,
+                  "config_height": 480
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/271372839_2048937635272807_7235722654152482718_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=BR_ghpqfePkAX_qxnJQ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_hRjVIF2xBGEfoAFbNhPdotRu1UdlnrENvmNgMdPbuww&oe=61ED5363&_nc_sid=7bff83",
+                  "config_width": 640,
+                  "config_height": 640
+                }
+              ],
+              "felix_profile_grid_crop": null,
+              "coauthor_producers": [],
+              "encoding_status": null,
+              "is_published": true,
+              "product_type": "igtv",
+              "title": "",
+              "video_duration": 58.834
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphVideo",
+              "id": "2359122253819210342",
+              "shortcode": "CC9STDQnOpm",
+              "dimensions": { "height": 995, "width": 640 },
+              "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/116017108_159068275706145_5715465987372360742_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=sbZYR12WUqQAX8S3sOJ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_GMkGMInigQ035-pv_AxV6Zudy363QM3i8F7fznxQn_g&oe=61ED362E&_nc_sid=7bff83",
+              "edge_media_to_tagged_user": { "edges": [] },
+              "fact_check_overall_rating": null,
+              "fact_check_information": null,
+              "gating_info": null,
+              "sharing_friction_info": {
+                "should_have_sharing_friction": false,
+                "bloks_app_url": null
+              },
+              "media_overlay_info": null,
+              "media_preview": "ABsqlFjGUBuBjAA/AdDkcjPcZ4+tIkNopIC5z6k/kOeB/PvSyuWUuxzg4ABGMeh/yTiqe8KM46D149qi5so9y09lbvuIJUt1zjg5yQMjgnp7VmSaZKGPlgunY8f49uh9xU4fow5zz7/5zU3nZ9/z/pTuHL2I1uETJcbxkY47jOf0NU9+aXqDn1/xqE5FIrqTbm49ByPxqcTjHf8Az1qkxGeKN1AiSRt4GeoBznuSck0m5VAyNwxnrj1BBx1GeRTYOXX6ilmGG/Fv/QjTERUzdSmo6CWf/9k=",
+              "owner": { "id": "13564608757", "username": "mari.obstetriz" },
+              "is_video": true,
+              "has_upcoming_event": false,
+              "accessibility_caption": null,
+              "dash_info": {
+                "is_dash_eligible": false,
+                "video_dash_manifest": null,
+                "number_of_qualities": 0
+              },
+              "has_audio": true,
+              "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiYjVkM2JmYmY5N2IyNGVlNGE4NjJmOThhMWRkZTc1MTMyMzU5MTIyMjUzODE5MjEwMzQyIn0sInNpZ25hdHVyZSI6IiJ9",
+              "video_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t50.16885-16/116014631_683038288944000_584566484287756122_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InZ0c192b2RfdXJsZ2VuLjQ4MC5pZ3R2LmRlZmF1bHQiLCJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSJ9&_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=9KecEXewu0MAX-_vnO4&edm=ABfd0MgBAAAA&vs=18126888952107053_2573781074&_nc_vs=HBksFQAYJEdDY182Z2FBbTVRX09HMENBRm9Ya3NzZXpCd0lidlZCQUFBRhUAAsgBABUAGCRHSy01akFaU1BJSDNPMk1FQVB4eFFlT0N3a0JEYnZWQkFBQUYVAgLIAQAoABgAGwGIB3VzZV9vaWwBMRUAACbak4iV5ZOzQBUCKAJDMywXQGbO6XjU%2FfQYEmRhc2hfYmFzZWxpbmVfMV92MREAdewHAA%3D%3D&_nc_rid=b5d3b145f5&ccb=7-4&oe=61ED0B18&oh=00_AT9ewJRyMTS0JtQXDf4ueQLqKFNfrHnQ4Qgt_Ocrd7cIpA&_nc_sid=7bff83",
+              "video_view_count": 257,
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "J\u00e1 viram como ocorre o processo de fecunda\u00e7\u00e3o? \ud83d\ude0d\n.\n\u25b6\ufe0f D\u00e1 um play no v\u00eddeo!\n.\n\ud83d\udd0a Aumente o som!\n.\nUm jeito divertido de entender \ud83d\ude00\n.\n#fecundacao #concepcao #espermatozoide #ovulo #utero #gravidez #gestacao #desenvolvimentofetal #anatomiahumana #obstetricia\n.\nMariane G. M. Santos\nObstetriz & Doula \nCOREN-SP 231\nmari.obstetriz@hotmail.com"
+                    }
+                  }
+                ]
+              },
+              "edge_media_to_comment": { "count": 8 },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1595449429,
+              "edge_liked_by": { "count": 39 },
+              "edge_media_preview_like": { "count": 39 },
+              "location": null,
+              "thumbnail_src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/c0.150.540.540a/116017108_159068275706145_5715465987372360742_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=sbZYR12WUqQAX8S3sOJ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-A63IF4k-d5XBHzPV9fOlm2N7IaJrKBEzTR-UXUUFNWw&oe=61ED6BE9&_nc_sid=7bff83",
+              "thumbnail_resources": [
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/p150x150/116017108_159068275706145_5715465987372360742_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=sbZYR12WUqQAX8S3sOJ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT9Hkh5R-5UC99yN134z3mafdpKhIwgM2hWzv8xbp-fPiQ&oe=61ED5C43&_nc_sid=7bff83",
+                  "config_width": 150,
+                  "config_height": 233
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/p240x240/116017108_159068275706145_5715465987372360742_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=sbZYR12WUqQAX8S3sOJ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT950UtaUz03Ti835XQjAV2diFWtHcbDzEk65qV739V2CQ&oe=61ED3D05&_nc_sid=7bff83",
+                  "config_width": 240,
+                  "config_height": 373
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/p320x320/116017108_159068275706145_5715465987372360742_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=sbZYR12WUqQAX8S3sOJ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT9Uq1lfeHQ7KFfOdtX9pqvDAEDRxYJ5bYeOCdQwJQ46nQ&oe=61ED453B&_nc_sid=7bff83",
+                  "config_width": 320,
+                  "config_height": 497
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/p480x480/116017108_159068275706145_5715465987372360742_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=sbZYR12WUqQAX8S3sOJ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-UceoCmzEQcpQL6M9Tk-6kctrYfZ5GBwCujXS7lNvHpQ&oe=61ED69FE&_nc_sid=7bff83",
+                  "config_width": 480,
+                  "config_height": 746
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/116017108_159068275706145_5715465987372360742_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=sbZYR12WUqQAX8S3sOJ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_GMkGMInigQ035-pv_AxV6Zudy363QM3i8F7fznxQn_g&oe=61ED362E&_nc_sid=7bff83",
+                  "config_width": 640,
+                  "config_height": 995
+                }
+              ],
+              "felix_profile_grid_crop": null,
+              "coauthor_producers": [],
+              "encoding_status": null,
+              "is_published": true,
+              "product_type": "igtv",
+              "title": "Fecunda\u00e7\u00e3o",
+              "video_duration": 182.466
+            }
+          }
+        ]
+      },
+      "edge_owner_to_timeline_media": {
+        "count": 57,
+        "page_info": {
+          "has_next_page": true,
+          "end_cursor": "QVFCbDNpTklYVC0wcHZWZDhBZy1ZbTRuR1JWTjFiQkhxb1I2WWRpQ0FtMkp3OGdYU3lSRzloWG5BTlNiLU53UDAzU3JiRzFBSF8taGNWdng4QVpPMldYOQ=="
+        },
+        "edges": [
+          {
+            "node": {
+              "__typename": "GraphImage",
+              "id": "2749596539275880397",
+              "shortcode": "CYoh3wHLqfN",
+              "dimensions": { "height": 1080, "width": 1080 },
+              "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/271669492_7158978787453358_2547685834867989436_n.webp.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=PZKfw7U8j0wAX_ThaAM&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT8a6ix6_e2zTQorNUSpXTC3hOpUdPJwaq_ZnljZgIZ6Iw&oe=61F22516&_nc_sid=7bff83",
+              "edge_media_to_tagged_user": { "edges": [] },
+              "fact_check_overall_rating": null,
+              "fact_check_information": null,
+              "gating_info": null,
+              "sharing_friction_info": {
+                "should_have_sharing_friction": false,
+                "bloks_app_url": null
+              },
+              "media_overlay_info": null,
+              "media_preview": "ACoqvdKgkfbz2qbluF6nj86dJYu4xlfzP+FZ7lFFjgZzU7Gpf7Pkx1X9f8KkSxZR1BP1NFmDZBESOtWCV9aryIYn2nnIyMUUCFgH7wA+orUNvHj7inHTgVkRMwPmYzz0q4b7vtwB1GR/kU0BZ8tc/cH5Uq28Z6oo/AVWN+P7v/j1J9tOc4yPTI/nVXQiG9xG67QANvQfU1V8/wBqnuT9oIONuOPWqnkN6ioKLQPygjvUO7LY7Y5qZuPyFRmkFhxOO1Rck/LQaI+tBRLuOcH0qPeaB96g0hH/2Q==",
+              "owner": { "id": "13564608757", "username": "mari.obstetriz" },
+              "is_video": false,
+              "has_upcoming_event": false,
+              "accessibility_caption": "Photo by Mariane | Obstetriz & Doula in Campinas SP. May be an image of one or more people and text that says '1 VOC\u00ca CONHECE A LEI DO ACOMPANHANTE? Lei Federal n\u00b0 11.108 07 de abril de 2005 SIM N\u00c3O @mari.obstetriz'.",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "\u2696 Lei Federal n\u00b0 11.108 de 07 de abril de 2005: \"Os servi\u00e7os de sa\u00fade do Sistema \u00danico de Sa\u00fade - SUS, da rede pr\u00f3pria ou conveniada, ficam obrigados a permitir a presen\u00e7a, junto \u00e0 parturiente, de 1 (um) acompanhante durante todo o per\u00edodo de trabalho de parto, parto e p\u00f3s-parto imediato.\"\n.\n\u00c9 direito de toda gestante a escolha de seu acompanhante no momento do pr\u00e9-parto, parto e p\u00f3s-parto.\n.\nO acompanhante deve ser de escolha da gestante, tendo grau de parentesco ou n\u00e3o. Pode ser o marido, a m\u00e3e, a irm\u00e3, a amiga, ou qualquer outra pessoa de sua escolha.\n.\nA presen\u00e7a do acompanhante \u00e9 muito importante para que a mulher se sinta mais segura, confiante e tranquila no momento do parto; proporciona apoio emocional. Ter o acompanhante ao lado reduz a ansiedade, o medo e o estresse. \n.\nA doula, a obstetriz e a enfermeira obstetra N\u00c3O devem ser consideradas como acompanhante, ocupando o lugar do mesmo.\n.\nCaso o hospital n\u00e3o cumpra a lei, denuncie! Fa\u00e7a valer o seu direito!\n.\n#gestacao #gravidez #gestante #parturiente #leidoacompanhante #direitodamulher #trabalhodeparto #parto #doula #obstetriz \n.\nMariane G. M. Santos\nObstetriz & Doula \nCOREN-SP 231"
+                    }
+                  }
+                ]
+              },
+              "edge_media_to_comment": { "count": 0 },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1641997471,
+              "edge_liked_by": { "count": 27 },
+              "edge_media_preview_like": { "count": 27 },
+              "location": {
+                "id": "100231328893572",
+                "has_public_page": true,
+                "name": "Campinas SP",
+                "slug": "campinas-sp"
+              },
+              "thumbnail_src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/271669492_7158978787453358_2547685834867989436_n.webp.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=PZKfw7U8j0wAX_ThaAM&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-ZcwKH7xv1lrokaVZKWoVGwCzKs2svWx1rC8Stj6iVWg&oe=61F2EBFB&_nc_sid=7bff83",
+              "thumbnail_resources": [
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/271669492_7158978787453358_2547685834867989436_n.webp.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=PZKfw7U8j0wAX_ThaAM&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-QZb518HZWNRo5NFmCjsFqQCI3tj_E_DCpaTPSM_QcjA&oe=61F24621&_nc_sid=7bff83",
+                  "config_width": 150,
+                  "config_height": 150
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/271669492_7158978787453358_2547685834867989436_n.webp.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=PZKfw7U8j0wAX_ThaAM&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT9zjTI1AT4ua_mdV9dqbUIDnfJA9HDu0uwwsoGsu8-eOA&oe=61F18591&_nc_sid=7bff83",
+                  "config_width": 240,
+                  "config_height": 240
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/271669492_7158978787453358_2547685834867989436_n.webp.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=PZKfw7U8j0wAX_ThaAM&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_1sL9StHha0qj6gPWlzrZBMaqZQIQiElxqupbliupNnw&oe=61F22A95&_nc_sid=7bff83",
+                  "config_width": 320,
+                  "config_height": 320
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/271669492_7158978787453358_2547685834867989436_n.webp.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=PZKfw7U8j0wAX_ThaAM&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT8cWQCpu70nN6Tr13fqEhvSg3A5hNY0W754MHm1zkur9w&oe=61F214C0&_nc_sid=7bff83",
+                  "config_width": 480,
+                  "config_height": 480
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/271669492_7158978787453358_2547685834867989436_n.webp.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=PZKfw7U8j0wAX_ThaAM&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-ZcwKH7xv1lrokaVZKWoVGwCzKs2svWx1rC8Stj6iVWg&oe=61F2EBFB&_nc_sid=7bff83",
+                  "config_width": 640,
+                  "config_height": 640
+                }
+              ],
+              "coauthor_producers": []
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphSidecar",
+              "id": "2749008173717668173",
+              "shortcode": "CYmcF5_FkFN",
+              "dimensions": { "height": 1080, "width": 1080 },
+              "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/271703719_5258697874143524_1562195191800839651_n.webp.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=z2P54jh04v4AX93SGzG&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT9wdXJlCn6EvFAlBGznhxCuvDmhIycs0Jtsx9J3-mU71g&oe=61F11A26&_nc_sid=7bff83",
+              "edge_media_to_tagged_user": { "edges": [] },
+              "fact_check_overall_rating": null,
+              "fact_check_information": null,
+              "gating_info": null,
+              "sharing_friction_info": {
+                "should_have_sharing_friction": false,
+                "bloks_app_url": null
+              },
+              "media_overlay_info": null,
+              "media_preview": null,
+              "owner": { "id": "13564608757", "username": "mari.obstetriz" },
+              "is_video": false,
+              "has_upcoming_event": false,
+              "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on January 11, 2022. May be an image of baby.",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "5 meses da minha pequenina \ud83c\udf89\n.\n5 meses de muito amor! Um amor incondicional! \u00c9 s\u00f3 gratid\u00e3o pela sua vida, minha beb\u00ea preciosa! Sou grata demais a Deus \ud83d\ude4f\ud83c\udffb\u2764\n.\nMocinha que aprendeu a virar de bru\u00e7os e que fica feliz com essa conquista. A cada virada, um sorriso..t\u00e3o linda \ud83d\ude0d\n.\nTe amo, minha princesinha \u2764\n.\n#mesversario #bebe #quintomes #maternidadereal #maedeprimeiraviagem #maedemenina #doula #obstetriz #obstetricia #campinas\n.\nMariane G. M. Santos \nObstetriz & Doula \nCOREN-SP 231"
+                    }
+                  }
+                ]
+              },
+              "edge_media_to_comment": { "count": 8 },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1641927333,
+              "edge_liked_by": { "count": 53 },
+              "edge_media_preview_like": { "count": 53 },
+              "location": {
+                "id": "100231328893572",
+                "has_public_page": true,
+                "name": "Campinas SP",
+                "slug": "campinas-sp"
+              },
+              "thumbnail_src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/271703719_5258697874143524_1562195191800839651_n.webp.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=z2P54jh04v4AX93SGzG&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT85zGOJKHqd65o5WY5rgjtNaJeSkqptBR-8tNgfxNUeJw&oe=61F1BE86&_nc_sid=7bff83",
+              "thumbnail_resources": [
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/271703719_5258697874143524_1562195191800839651_n.webp.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=z2P54jh04v4AX93SGzG&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_JE7zmRXUSdpsxP4EYTsFaDRrNkJLsFvN6wr5SiECUPg&oe=61F11EE0&_nc_sid=7bff83",
+                  "config_width": 150,
+                  "config_height": 150
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/271703719_5258697874143524_1562195191800839651_n.webp.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=z2P54jh04v4AX93SGzG&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_OKEorN7hoBEh5omhr0N-pjm-nZO81Gc-tVNzPO7wcCQ&oe=61F13730&_nc_sid=7bff83",
+                  "config_width": 240,
+                  "config_height": 240
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/271703719_5258697874143524_1562195191800839651_n.webp.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=z2P54jh04v4AX93SGzG&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT90VzZWG6IOOp0RAvXb_-5a8YOiHjdAlupNiBjnjpl3MQ&oe=61F1A96C&_nc_sid=7bff83",
+                  "config_width": 320,
+                  "config_height": 320
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/271703719_5258697874143524_1562195191800839651_n.webp.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=z2P54jh04v4AX93SGzG&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_FZYakb3_7wyqnPGNuOSYUC0dcEJ7P1L8if0b7TnOJ8Q&oe=61F1ABC1&_nc_sid=7bff83",
+                  "config_width": 480,
+                  "config_height": 480
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/271703719_5258697874143524_1562195191800839651_n.webp.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=z2P54jh04v4AX93SGzG&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT85zGOJKHqd65o5WY5rgjtNaJeSkqptBR-8tNgfxNUeJw&oe=61F1BE86&_nc_sid=7bff83",
+                  "config_width": 640,
+                  "config_height": 640
+                }
+              ],
+              "coauthor_producers": [],
+              "edge_sidecar_to_children": {
+                "edges": [
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2749008170051935547",
+                      "shortcode": "CYmcF2kl507",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/271703719_5258697874143524_1562195191800839651_n.webp.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=z2P54jh04v4AX93SGzG&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT9wdXJlCn6EvFAlBGznhxCuvDmhIycs0Jtsx9J3-mU71g&oe=61F11A26&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoqUUuabTHbjAoGOZwKjEZk5bgHp2H1J9+1NhG8e3TnvU7SCNQMZwMe2Pce1TcaCCPqDzjvSFFp1rIJOB/nP+P8qsmIVQFMmoScmpDx9aI4y54/Gk30DzJIOCccZqC9IQqD1OeR6fyOc9DV8IEGTU3lJKo3qGHXBFCEVdPiAQPxhueBj+uPyq4RUoXAwOAKjOaoCtFEGHNRlPLkD54549fQAVZi6flSRgFyT1qWNBtL4z3/AEq0BgYFNWn00JhTgKaakHSmI//Z",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on January 11, 2022. May be an image of baby."
+                    }
+                  },
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2749008169942810888",
+                      "shortcode": "CYmcF2eFoEI",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/271630986_3154581068132565_2653080600710436699_n.webp.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=JoM_DjrEMxEAX-FtHeV&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_e-KmAMzuVEpXB3wSI4-2rFI15ixIp0VxNGZXpUpeliQ&oe=61F11BC4&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoqeUxURRnOFHNSLIdgHfFTWbASgE9RgVJRQuN0QwPxHp9Kz92a1r2IqSpPJYnGB0/w/CsUcH8TRe5VuxLSYpQaXdSEa23BxTbhNjBlOGXBP16g/wBKsvgAt3ArFMhLMM5OKH2NKbs7+pdu7kXAB2hZB1b/ADz+tZci7QCOmaaXZTySc8896svhoR7Z/nSLbXLaKt+JADS01akxVGBr3xKEKM9B0+lUERkG/JTd29fWrNmS06A889/oaZe8Ff8AgX/oVK/Uu3QrON5yeTjFSmLdDkdV4x/h9aYvWrg48wDsV/8AQhRuLYoxwk9fl+uRVn7MvqPzrTiOeDzSFF9B+VUZ3P/Z",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on January 11, 2022. May be an image of baby."
+                    }
+                  },
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2749008169934310196",
+                      "shortcode": "CYmcF2dlMs0",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/271629311_424505479412164_7052410803498331686_n.webp.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=b7uQAMGmw-AAX8gUpKg&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT8bYMRHRiZo-cxWjEdxQlJ0CZRMvDKf-jbOVPqp-N9tlA&oe=61F12CBE&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoqpYpsjhBk/hTqglG5wPQUhjN7t7ZqwquoyeRVlLYOPerwtwFpFWMpeee1OpCNhKjsaWmSJ1qIqS34VPGjP90ZpXUxkE0DSLMAfIUgjnHOOfpirMUrSZUggKcZxiq6ThnBBxgdCD/SrySBxtBG45x/n+lIox5Bhz35/nTae8bIxD/ezz/jRgUyB6oqASDhlIOaddanGMqqhyeOen41VuyQprJHWhFN2LMd08f3cY9CM/8A16vHUvkxtAbIOR0yOc+uayRUgp2Jux811JOSzHr6cCos0wdDT6Yj/9k=",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on January 11, 2022. May be an image of baby."
+                    }
+                  },
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2749008170068503076",
+                      "shortcode": "CYmcF2llGok",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/271578324_227953466166829_7106674878173962047_n.webp.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=VUkQlUG34_8AX-1ZfsQ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT8j0cZfVWODfCps4J8n8vKzWVwVduoJaH3cV_fWHp5oqw&oe=61F188FA&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoqsxCrIFV0IVSx6AZ/Kqy3b4EmV2/3fb656+nFArXJLucAlQCWXGcDoD0/yK04HMkQJ64wffHf8ay9QX7rA/e4x69waGujb/KgO1R0bOPrn8aWzLtdKxbuCFGWIA9TVXz4v7w/Oq1zeecm3GCCD/jVHcfQ/lT3Dla0ZtMMxsPY1j+Yqx5OMqMdOePetK5JROPUAfWs77O2SvUZIz9aTBaFqyH2oeZNyq4Uc9Txx9MVPNGjMSTww6dP8/0rMtxLgRr03Z/xJ9hj+lXCjngEH1peho33ZWltGRsjJXsf6E0u8jihbhj8mTxxSGXB6Ui1JmtIYyAzEkgcDB6/lyaj3ZH93I69z+FQg8mnxj5c0zBbXEl/0dVVQSXbHHJJ/wA9qhi3RO6k5GAe3HJ60uqH5U+p/kKg0v8A1wHYg59/rTWhVrq5TjZg2VGSf8mnlj61Kvy3Bxxhm6fjVc0Dk7PTTQ//2Q==",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on January 11, 2022. May be an image of child, standing and indoor."
+                    }
+                  },
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2749008169967979638",
+                      "shortcode": "CYmcF2flox2",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/271628855_629069421763485_1246265905409829077_n.webp.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=sL7xeZ5z18MAX8-65zU&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-NQ10uPLpFNJvdC3SCM5mBnHSixIXs_m1MFWNVj3wRVQ&oe=61F1578A&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoqthj06c02ZV2klQSPakVgASeO5qo+pIx2BeDxk/4VLFHcW3tlmDBicr096ma0kHAYEDt0/wA/nRausTGNyAzE4PYn09jVa9lcksGZdp+UDpxxk++fWpsjW7u7FtgRFhgAeeB0rP2L6f8AoVaSSF40fuwz+NO832FKwnO263Ib3MagA4yeMD9PzrPtWLyDKqcEhjjHH/166BrLzPvmshsQBgo+6cn37VXqEdrdRtxtLEMBjGcnqPcVWmk3RFuf8cnNW2BugFVeWGcdwB/ntzUFxDiPHpTSuNuxasD58YiHDLnr6dRV37BJ/eX9aoWW5JCw4O3+daO9/wC8al6ENX1Zp7uM1x9xLknOea66uMvK2toTezJrW8ZJg7dlIzgDtx09KuOwI6g1lW45/A/0qQ9D+NFhN6mlHIsYyepAwKk85vUflVCTqP8AdFOrG9jdq5//2Q==",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on January 11, 2022. May be an image of child, standing and outdoors."
+                    }
+                  },
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2749008169967839306",
+                      "shortcode": "CYmcF2flGhK",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/271667080_997345441181403_4887558126703595255_n.webp.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=S6t8FAL2fy0AX99KRRp&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-zqXO3bnznVZ1lNgqfygWcivJfnSLXziB2KqWD3TbGfw&oe=61F217A1&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoqyxSgUChuAakZFy/PQVYWBgNwzirdkqMu04PtWrKipGcDgCkUc/2zSYqTFJTJIhVvy12ZI+Yg/nTtOiR2JfqOg/qf6VDPOeVTrnhv60wL9qsXLYx8gyR15/qKu3CGGDEeTjgnOSPf3/p1rCtphHJ83Q4z7Ef0zXVwkMuOoI/Skin3OVpOanmQJIyjoCQPzqPbTJG2twyDYi7i39RipI4fKIR+XPP4VYsVAUcVVckzv7EVF9TRLp5FYxMzF0G4A8jvXWWsiCENngDktx+fpisPT+h+p/pVjU/+PZvqv86aetiWtCnJOk8jshyCxP4U2s60+/8AhWjVvQg//9k=",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on January 11, 2022. May be an image of baby and indoor."
+                    }
+                  },
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2749008170051703170",
+                      "shortcode": "CYmcF2klBGC",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/271590766_1306257953173898_2523057431744278749_n.webp.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=4HKar0f6O0wAX98o30m&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT8_r5uu9zGqr4cbz6f5gxBj1L2NufPMF7s16QYz9QORkQ&oe=61F27ECB&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoqdFESc1WkQ3EzKSQqnGB3q/C2KrvH+9PYPg5B59/5CgB8cQjbZk/n0/rg1Z8oj3qNUA3ZGCB971/z+VPgS42/MVJ9D1oAj8vtR5JqeJ9/yuMNU3lCgDLU549aZHb+Y/3ioU9vWkALHaKvJbhRycDqSetAF2OIL1y1PZgo54qgk0icfeXt2NVXFxcEiEqB2znPvzyOtACtI0fJPU4BHJ/KrgMpGQ6/iKqtFHIyqCSyAbuuC3c+9WfK9qAMWNy7DZ26ntitaBpHBV+R2OOcemf8mqVoP3a+/wDjWrD1oAkK4XjAHfPp7e9NjWJmKofmGQcfkfy/nVtRkVzlqxE0hyen/s9AF+CAKCM5Y8E/4f54pWiUknFVdJJMTZ5+c1o0Af/Z",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on January 11, 2022. May be a black-and-white image of baby."
+                    }
+                  },
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2749008169959615895",
+                      "shortcode": "CYmcF2fFu2X",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/271710134_1273650589806675_5534806782229020083_n.webp.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=lK3LzX3TnYMAX8rioP-&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-93nvUEgox6DM3Rexy9Yl4QQNUw03FQp7dYd-iKPyiWw&oe=61F1A54F&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoqy6M+nJraEyY+6D+AqCf/AFiFV/hPAA9fbvTasCd9jNw2MkYFRv0rdflcFeBg+3XpUT+W3IjGPpSSuNuxkW0O5ifT+tWfKqwCF+6AAewpfMp2IuV3mJ7A/jV3yWYB1+8O39KzWUkZx0q6ZnyNvQD2qU77l2a128ty9bglcOfbjtUEqSRsRncOuf8APeot5KlWPvwe/vj/ABpizFfll+ZD37j3ovbQh2kx+0sM8lT3Hr6U3yh/kUx5DGuwcrnIp4Jx9x/zP+FNNlOHr8rf5lIyjGOTUTT7RtxwfWpHGFyOKZcDgfWoRXQniJZcjoam6jB/WoLE8H6/0rRpMlx5t2UoYRLJsY4GO3t6Ve2zjgdB0zjNVEPzMe4Iq9vb1P51Udi9tPQ//9k=",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on January 11, 2022. May be an image of indoor."
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphImage",
+              "id": "2747024713102681382",
+              "shortcode": "CYfZGwVtGUm",
+              "dimensions": { "height": 1080, "width": 1080 },
+              "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/271465562_301311328619094_2925871714698542107_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=pILX9l82kyEAX-oOCNJ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT9UHN84n3c2yQyHGPR0YVtldEXYclZcg3vhU_pF2eOzvA&oe=61F216E0&_nc_sid=7bff83",
+              "edge_media_to_tagged_user": { "edges": [] },
+              "fact_check_overall_rating": null,
+              "fact_check_information": null,
+              "gating_info": null,
+              "sharing_friction_info": {
+                "should_have_sharing_friction": false,
+                "bloks_app_url": null
+              },
+              "media_overlay_info": null,
+              "media_preview": "ACoqSnKuRk8D+fsP88U2llOAAO44+p/z+lYHWRtOqtjbx65Of6fyqbAYZXt1Ht6g9/51WMOWABPLMpyO69ceo9O5qSFtrKBkggMueuD2P+elOz6kJ3HUUpGCR6GkpFk0cJkGQcYpZrViox8xXt6j/EfqKmtvunvz/SpBLnHytyM9OnXg+/FVYhso5bA8yNyy9CCfw9SPwogt5HfzXyPTdnJPbrzge/pgVe884B2v+XTp/j/OjzeMlW/Ln+dOxJWa3KgnI4qvWgzbkbgjjvWfUstO5dtfun6/0qd0DjB/QkfyqC1+6fr/AEqzVIl7kJgQnJz+Z9MevtT0jVOnfv1P50uBTqYiOX7h+lZtaUv3D9KzallxP//Z",
+              "owner": { "id": "13564608757", "username": "mari.obstetriz" },
+              "is_video": false,
+              "has_upcoming_event": false,
+              "accessibility_caption": "Photo by Mariane | Obstetriz & Doula in Campinas SP. May be an image of text that says '00 \"E se eu fizer coc\u00f4 no parto?\" @mari.obstetriz'.",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "Esse \u00e9 um \"medo\", um \"constrangimento\" de muitas gestantes. Mas, \u00e9 comum e n\u00e3o tem problema nenhum. As equipes est\u00e3o super acostumadas. Pode acreditar! \ud83d\ude09\n.\nO nosso corpo \u00e9 s\u00e1bio e, muitas vezes, j\u00e1 inicia a \"limpeza\" dias antes do parto, onde muitas gestantes relatam diarreia. Eu mesma passei por isso. Nos 2 dias que antecederam o meu parto, eu tive diarreia. \n.\nDurante o trabalho de parto, devido \u00e0 for\u00e7a que a mulher exerce para a expuls\u00e3o do beb\u00ea (e que for\u00e7a! temos um potencial inacredit\u00e1vel!) e conforme ocorre a descida da cabe\u00e7a do beb\u00ea, pressionando na passagem do canal, \u00e9 comum que a mulher evacue o restinho de coc\u00f4 que esteja na sa\u00edda do reto.\n.\nNo meu parto, durante o expulsivo, senti essa vontade muito forte de fazer coc\u00f4 e ent\u00e3o eu disse que iria fazer, e a enfermeira, que estava prestando assist\u00eancia, disse que tudo bem, que poderia fazer. Mas, no meu caso, nada! Era apenas a press\u00e3o da cabe\u00e7a da beb\u00ea descendo que fez com que eu sentisse essa vontade. A press\u00e3o que sentimos \u00e9 bem ali mesmo, como se f\u00f4ssemos parir pelo \"furico\" \ud83d\ude06\ud83e\udd2d\n.\nEvacuar no parto n\u00e3o \u00e9 motivo para ficar envergonhada. Fique tranquila! \u00c9 comum! \u00c9 tamb\u00e9m um sinal de que o seu beb\u00ea est\u00e1 descendo e o parto est\u00e1 evoluindo.\n.\nEsque\u00e7a o coc\u00f4 e se entregue ao momento/ao parto! Conecte-se com o seu beb\u00ea e esque\u00e7a o coc\u00f4! N\u00e3o trave o seu parto com esse \"medo\"! Sem medo e sem vergonha, deixe o seu corpo trabalhar! Eu j\u00e1 disse \"esque\u00e7a o \ud83d\udca9\"? Isso mesmo! Esque\u00e7a!\n.\n#gravidez #gravida #parturiente #coconoparto #coconopartonormal #evacuarnopartonormal #partonormal #partonatural #obstetricia #obstetriz \n.\nMariane G. M. Santos\nObstetriz & Doula \nCOREN-SP 231"
+                    }
+                  }
+                ]
+              },
+              "edge_media_to_comment": { "count": 0 },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1641690886,
+              "edge_liked_by": { "count": 20 },
+              "edge_media_preview_like": { "count": 20 },
+              "location": {
+                "id": "100231328893572",
+                "has_public_page": true,
+                "name": "Campinas SP",
+                "slug": "campinas-sp"
+              },
+              "thumbnail_src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/271465562_301311328619094_2925871714698542107_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=pILX9l82kyEAX-oOCNJ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_GKQTcpGPw3o0UpMFS6WejlLR7RBZxrSeq6jlMfeMEdQ&oe=61F255A6&_nc_sid=7bff83",
+              "thumbnail_resources": [
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/271465562_301311328619094_2925871714698542107_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=pILX9l82kyEAX-oOCNJ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT8YjGT0F0-byTbwaFQKq3uInljyeZz8frAv70FNGro9dQ&oe=61F10661&_nc_sid=7bff83",
+                  "config_width": 150,
+                  "config_height": 150
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/271465562_301311328619094_2925871714698542107_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=pILX9l82kyEAX-oOCNJ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_Bf0Mo0m-EvceNrj69N7M_lNNxUBn_GwQKCEO4_PR8hA&oe=61F1AFE7&_nc_sid=7bff83",
+                  "config_width": 240,
+                  "config_height": 240
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/271465562_301311328619094_2925871714698542107_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=pILX9l82kyEAX-oOCNJ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT9fAwgzYfvqNgOqR7FOi051p7O2XwPY2ijbzbDz05sCJA&oe=61F29A59&_nc_sid=7bff83",
+                  "config_width": 320,
+                  "config_height": 320
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/271465562_301311328619094_2925871714698542107_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=pILX9l82kyEAX-oOCNJ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT9CtL65TboaaOw5fYoDar_SIvF1zjwSr38XWICVJw__Bg&oe=61F17120&_nc_sid=7bff83",
+                  "config_width": 480,
+                  "config_height": 480
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/271465562_301311328619094_2925871714698542107_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=pILX9l82kyEAX-oOCNJ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_GKQTcpGPw3o0UpMFS6WejlLR7RBZxrSeq6jlMfeMEdQ&oe=61F255A6&_nc_sid=7bff83",
+                  "config_width": 640,
+                  "config_height": 640
+                }
+              ],
+              "coauthor_producers": []
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphVideo",
+              "id": "2745987449732759790",
+              "shortcode": "CYbtQljAIDu",
+              "dimensions": { "height": 480, "width": 480 },
+              "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/271372839_2048937635272807_7235722654152482718_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=BR_ghpqfePkAX_qxnJQ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_hRjVIF2xBGEfoAFbNhPdotRu1UdlnrENvmNgMdPbuww&oe=61ED5363&_nc_sid=7bff83",
+              "edge_media_to_tagged_user": { "edges": [] },
+              "fact_check_overall_rating": null,
+              "fact_check_information": null,
+              "gating_info": null,
+              "sharing_friction_info": {
+                "should_have_sharing_friction": false,
+                "bloks_app_url": null
+              },
+              "media_overlay_info": null,
+              "media_preview": "ACoqrrbr+tTLbLUPmdvcmrMcm4V12PPcn1E+zrSfZ1qbdTWboPX+nNFieYha2Wo/s61aLc0nFFh8/mZRfHNTQzBcg1T9PrzV2C2y+5vmXk4HUnsOfeo51HfqbOKasyyJQcY5BoMgyPxqwfljDFGySBtGMjPc/T+tUZoiG46/0qVW/mtZvTXsY+zHrJS+ZVRzt4qPDV0KSautivZ3HqVz6VOpA5U1ng0/Nc9rqz1R0uOuhp+ccdf5VA7bzljk1TJ4pAahQjF3S1BRLjFO4zR54qkTTa1SNdOx/9k=",
+              "owner": { "id": "13564608757", "username": "mari.obstetriz" },
+              "is_video": true,
+              "has_upcoming_event": false,
+              "accessibility_caption": null,
+              "dash_info": {
+                "is_dash_eligible": false,
+                "video_dash_manifest": null,
+                "number_of_qualities": 0
+              },
+              "has_audio": false,
+              "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiYjVkM2JmYmY5N2IyNGVlNGE4NjJmOThhMWRkZTc1MTMyNzQ1OTg3NDQ5NzMyNzU5NzkwIn0sInNpZ25hdHVyZSI6IiJ9",
+              "video_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t50.16885-16/271613691_1104158663755539_4139157731349479365_n.mp4?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=GPJ_EtTW1lQAX9kCrQx&edm=ABfd0MgBAAAA&ccb=7-4&oe=61ED3BA6&oh=00_AT-nfBu81uMT_OTjk4uDIUneRgy3-Qksj14P4ipSoEMlGw&_nc_sid=7bff83",
+              "video_view_count": 90,
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "Voc\u00ea sabia que a respira\u00e7\u00e3o tem import\u00e2ncia fundamental durante o trabalho de parto e o parto?\n.\nA respira\u00e7\u00e3o \u00e9 uma grande aliada por promover o relaxamento, obter concentra\u00e7\u00e3o, diminuir riscos de trauma perineal no momento do expulsivo e melhorar a oxigena\u00e7\u00e3o sangu\u00ednea da m\u00e3e e do feto.\n.\nA realiza\u00e7\u00e3o de t\u00e9cnicas de respira\u00e7\u00e3o \u00e9 um dos m\u00e9todos n\u00e3o farmacol\u00f3gicos para al\u00edvio da dor, pois promove a diminui\u00e7\u00e3o das percep\u00e7\u00f5es de dor.\n.\nBora praticar com o peixinho? \ud83d\udc1f\n.\n\u00c9 simples! Quando ele subir, voc\u00ea inspira e no momento em que ele chegar ao topo, d\u00ea uma pausa, e quando ele descer, voc\u00ea expira.\n.\n#respiracao #respiracaoconsciente #respiracaogestante #respiracaonagestacao #respiracaonoparto #calma #concentracao #obstetricia #obstetriz #doula \n.\nMariane G. M. Santos\nObstetriz & Doula \nCOREN-SP 231"
+                    }
+                  }
+                ]
+              },
+              "edge_media_to_comment": { "count": 0 },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1641567253,
+              "edge_liked_by": { "count": 13 },
+              "edge_media_preview_like": { "count": 13 },
+              "location": {
+                "id": "100231328893572",
+                "has_public_page": true,
+                "name": "Campinas SP",
+                "slug": "campinas-sp"
+              },
+              "thumbnail_src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/271372839_2048937635272807_7235722654152482718_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=BR_ghpqfePkAX_qxnJQ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_hRjVIF2xBGEfoAFbNhPdotRu1UdlnrENvmNgMdPbuww&oe=61ED5363&_nc_sid=7bff83",
+              "thumbnail_resources": [
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/271372839_2048937635272807_7235722654152482718_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=BR_ghpqfePkAX_qxnJQ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_-XcP5x98NNOw3Q-Vy9lYKvZSFingK21G4wAqP62HU-Q&oe=61ED884F&_nc_sid=7bff83",
+                  "config_width": 150,
+                  "config_height": 150
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/271372839_2048937635272807_7235722654152482718_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=BR_ghpqfePkAX_qxnJQ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT9ldFS7Hsdv4NrsTURNtVpXIAq7HScqJ0m9lg-Exj_7ig&oe=61ED4BC7&_nc_sid=7bff83",
+                  "config_width": 240,
+                  "config_height": 240
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/271372839_2048937635272807_7235722654152482718_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=BR_ghpqfePkAX_qxnJQ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_4EZp0MqtfIfqGcZKxsllR1WY9BpgWPsDmxVHAXLLcoQ&oe=61ED319A&_nc_sid=7bff83",
+                  "config_width": 320,
+                  "config_height": 320
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/271372839_2048937635272807_7235722654152482718_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=BR_ghpqfePkAX_qxnJQ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_hRjVIF2xBGEfoAFbNhPdotRu1UdlnrENvmNgMdPbuww&oe=61ED5363&_nc_sid=7bff83",
+                  "config_width": 480,
+                  "config_height": 480
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/271372839_2048937635272807_7235722654152482718_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=BR_ghpqfePkAX_qxnJQ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_hRjVIF2xBGEfoAFbNhPdotRu1UdlnrENvmNgMdPbuww&oe=61ED5363&_nc_sid=7bff83",
+                  "config_width": 640,
+                  "config_height": 640
+                }
+              ],
+              "felix_profile_grid_crop": null,
+              "coauthor_producers": [],
+              "product_type": "igtv",
+              "clips_music_attribution_info": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphImage",
+              "id": "2745216063542981135",
+              "shortcode": "CYY93cLLPIP",
+              "dimensions": { "height": 1080, "width": 1080 },
+              "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/271288061_1411019945981845_8214680042209119949_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=yCs6HbDfwRcAX9gnAJI&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT8Sn7SETzwOZsMDxvkj2ol2UQriABjxrbj0udiUjGuwDw&oe=61F23813&_nc_sid=7bff83",
+              "edge_media_to_tagged_user": { "edges": [] },
+              "fact_check_overall_rating": null,
+              "fact_check_information": null,
+              "gating_info": null,
+              "sharing_friction_info": {
+                "should_have_sharing_friction": false,
+                "bloks_app_url": null
+              },
+              "media_overlay_info": null,
+              "media_preview": "ACoqsiKW7XeJXQktwp4ADEYAGOw69aVdLyf3ksje244P86ktG2Bge0kg/wDHif61fVgaQFK0XyZ2jXhSu7GSRkNjIznsRmtOsqMkXSn1WRT74KmtEswPC5oQ7EtJUYdycFcfjUlMDBJ2yyDp+8J/MKa0om4rOmXM8g/3D+aj/CpEcrxUNFXVic8XEfuzj80z/SrZi7BRgdOT/hVGRsNE57SD9VYVqIwcZHSqJZEYznO1frk1LgDinGkpiMS5bZcn3RD+RYUs5A2t35H6VHrYwEYcHJGe+OOPpVO0jV/vAN9QD/OgC/I+4IAfm8xMevX0+n6VrqADn1/Kobe3iT5lRVPqFAP54q0OlABnNFBooA//2Q==",
+              "owner": { "id": "13564608757", "username": "mari.obstetriz" },
+              "is_video": false,
+              "has_upcoming_event": false,
+              "accessibility_caption": "Photo by Mariane | Obstetriz & Doula in Campinas SP. May be an image of text that says '? QUANDO d\u00e1 para saber sexo do beb\u00ea? @mari.obstetriz'.",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "O per\u00edodo exato pode variar muito, de acordo com o m\u00e9todo utilizado.\n.\nPela ultrassonografia \u00e9 poss\u00edvel identificar com 16 semanas de gesta\u00e7\u00e3o, por\u00e9m, muitas das vezes n\u00e3o \u00e9 poss\u00edvel, dependendo do tamanho e da posi\u00e7\u00e3o do feto, que podem impedir ou dificultar a identifica\u00e7\u00e3o do sexo.\n.\nCom 13 semanas de gesta\u00e7\u00e3o, na ultrassonografia, \u00e9 poss\u00edvel identificar a posi\u00e7\u00e3o do tub\u00e9rculo genital, que \u00e9 a estrutura que dar\u00e1 origem ao p\u00eanis ou clit\u00f3ris.\n.\nCom isso, muitos casais optam por realizar o exame de sangue (sexagem fetal), ap\u00f3s a oitava semana de gesta\u00e7\u00e3o.\n.\nLembrando que, pelo ultrassom, n\u00e3o somente o tamanho e a posi\u00e7\u00e3o do feto que interferem na identifica\u00e7\u00e3o do sexo, como tamb\u00e9m: posi\u00e7\u00e3o uterina, obesidade materna, cirurgias abdominais pr\u00e9vias e qualidade do aparelho de ultrassom utilizado.\n.\nH\u00e1 tamb\u00e9m quem n\u00e3o queira saber o sexo do beb\u00ea na gesta\u00e7\u00e3o e descobrir somente no momento do nascimento. Mas, por aqui foi diferente! N\u00e3o v\u00edamos a hora de saber, tanto que n\u00e3o aguentamos esperar pelo ultrassom e realizamos a sexagem fetal.\n.\nComo foi por a\u00ed? Descobriu pelo ultrassom ou pela sexagem fetal? Ou resolveu aguardar at\u00e9 o nascimento? Conta aqui \ud83d\udc47\n.\n#gestacao #gravidez #gestante #gravida #sexodobebe #sexagemfetal #ultrassom #maedeprimeiraviagem #obstetriciaporamor #obstetriz\n.\nMariane G. M. Santos\nObstetriz & Doula \nCOREN-SP 231"
+                    }
+                  }
+                ]
+              },
+              "edge_media_to_comment": { "count": 0 },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1641475278,
+              "edge_liked_by": { "count": 9 },
+              "edge_media_preview_like": { "count": 9 },
+              "location": {
+                "id": "100231328893572",
+                "has_public_page": true,
+                "name": "Campinas SP",
+                "slug": "campinas-sp"
+              },
+              "thumbnail_src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/271288061_1411019945981845_8214680042209119949_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=yCs6HbDfwRcAX9gnAJI&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-KWR3wODMbKJB--9STlm_odrUmox6A4YKKrZDi9D4JRQ&oe=61F1218C&_nc_sid=7bff83",
+              "thumbnail_resources": [
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/271288061_1411019945981845_8214680042209119949_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=yCs6HbDfwRcAX9gnAJI&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_Cw2qI3eD1yAZ_lHBFAvqfRWXRS1eKoZ9OOFAqrVJrDg&oe=61F14F3F&_nc_sid=7bff83",
+                  "config_width": 150,
+                  "config_height": 150
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/271288061_1411019945981845_8214680042209119949_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=yCs6HbDfwRcAX9gnAJI&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_8-mIsPgSksIB0X8ZbZfESG4LhvXIQqbOSKqHO6EygLA&oe=61F1E477&_nc_sid=7bff83",
+                  "config_width": 240,
+                  "config_height": 240
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/271288061_1411019945981845_8214680042209119949_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=yCs6HbDfwRcAX9gnAJI&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_oedynaxmvB7LYETwsGxD5OuGPg1RuXBayBDwoexASbQ&oe=61F1BC2A&_nc_sid=7bff83",
+                  "config_width": 320,
+                  "config_height": 320
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/271288061_1411019945981845_8214680042209119949_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=yCs6HbDfwRcAX9gnAJI&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT93e8lon9SGGrxaLz7Cf0Yw1-khnUEx5UGIRT_X9upAzg&oe=61F2AAAC&_nc_sid=7bff83",
+                  "config_width": 480,
+                  "config_height": 480
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/271288061_1411019945981845_8214680042209119949_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=yCs6HbDfwRcAX9gnAJI&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-KWR3wODMbKJB--9STlm_odrUmox6A4YKKrZDi9D4JRQ&oe=61F1218C&_nc_sid=7bff83",
+                  "config_width": 640,
+                  "config_height": 640
+                }
+              ],
+              "coauthor_producers": []
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphImage",
+              "id": "2744003617879336175",
+              "shortcode": "CYUqMCKFaTv",
+              "dimensions": { "height": 1080, "width": 1080 },
+              "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/271186847_396675512204011_2990638888659650540_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=VUwbhK1Q83gAX_I3u3S&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-w4LaHu5HKoO6pMXMxDnvznpyNaT_5gUYFWkr6RUgPdA&oe=61F29D07&_nc_sid=7bff83",
+              "edge_media_to_tagged_user": { "edges": [] },
+              "fact_check_overall_rating": null,
+              "fact_check_information": null,
+              "gating_info": null,
+              "sharing_friction_info": {
+                "should_have_sharing_friction": false,
+                "bloks_app_url": null
+              },
+              "media_overlay_info": null,
+              "media_preview": "ACoq00yuR1x/n9ahS63sFVT159h2NWQPSkI561gSMVnLkEYUdD6/5/SoTPIvLJnHcGrGPc/p/hS7T7/5/CgBA4K7ugxnn86YJkIyGGDTjnJyCMfTnjt60z8KAIrx2jQMvAycn8sf1qot5P0BDZ6Z5/I4/nU2oKZIwNw9cd+/6Efrj1rIT5SGY8jH/wBatUtEaLY24JpZlIOEODz3B7cDH4etQSRFOcs/uSSPp7VFDKWilcdcqfwJ5H4dRR5yzoY5TtJxhh0P1/z9aBryHWs2JAhA54HrzmtAK2OTg1kvGkBjOfmDDOe+DnI9q2TwcVDJkQsqyfKyg449P5VXfT4nPG5foc/zH9anlH/oS/zqY9aLtE3K0NskKMmSwfr24xjtmhbWFeNoP1JP9auYqE9aLsdyPaifdVR/wEf4VJ5g9aaelRHg0tyWf//Z",
+              "owner": { "id": "13564608757", "username": "mari.obstetriz" },
+              "is_video": false,
+              "has_upcoming_event": false,
+              "accessibility_caption": "Photo by Mariane | Obstetriz & Doula in Campinas SP. May be an image of cake and text that says 'ch\u00e1 de ervas PARAO o PER\u00cdNEO NO P\u00d3S-PARTO @MARI.OBSTETRIZ'.",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "Ap\u00f3s o parto normal, \u00e9 comum a mulher sentir ard\u00eancia, incha\u00e7o, dor e/ou sensa\u00e7\u00e3o de queima\u00e7\u00e3o, mesmo que n\u00e3o haja lacera\u00e7\u00e3o no per\u00edneo.\n.\nAqui vai uma dica: receitinha de ABSORVENTE COM CH\u00c1 DE ERVAS GELADO PARA O PER\u00cdNEO \ud83c\udf3f\ud83c\udf43\n.\n\u25aa\ufe0fIngredientes:\nErvas: arnica, camomila, cal\u00eandula e barbatim\u00e3o;\n2 litros de \u00e1gua;\nAbsorventes (de sua prefer\u00eancia);\nSaquinhos para freezer.\n.\n\u25aa\ufe0fModo de Preparo:\nEm uma panela, ferva 2 litros de \u00e1gua e depois, acrescente 2 punhados de barbatim\u00e3o. Deixe ferver por 1 minuto e desligue o fogo. Acrescente 2 punhados de arnica, camomila e cal\u00eandula, e abafe por 5 minutos. Ap\u00f3s, coe o ch\u00e1 em uma peneira e em seguida, em um coador de caf\u00e9 (assim voc\u00ea retira o m\u00e1ximo de folhinhas do ch\u00e1). Ap\u00f3s coado, com o aux\u00edlio de uma concha ou colher, molhe os absorventes um a um com bastante ch\u00e1. Logo em seguida, embale-os, individualmente, em saquinhos para freezer. Depois \u00e9 s\u00f3 levar ao freezer.\n.\nSobrou ch\u00e1? \ud83e\udd14 .. Reserve em uma garrafinha e utilize para se enxaguar ap\u00f3s fazer xixi nos primeiros dias ap\u00f3s o parto. \n.\nO uso do absorvente pode ser iniciado no p\u00f3s-parto imediato, e pode ser usado de 3 a 4 vezes por dia. \u00c9 s\u00f3 retirar do freezer 5 minutos antes do uso e coloc\u00e1-lo na calcinha. Use at\u00e9 que ele derreta/descongele e ap\u00f3s, descarte (n\u00e3o permane\u00e7a por muito tempo para evitar umidade no per\u00edneo).\n.\nEsse absorvente com ch\u00e1 de ervas \u00e9 bactericida, cicatrizante, calmante e fungicida.\n.\nEu tive lacera\u00e7\u00e3o de segundo grau no meu parto e usei o absorvente nos primeiros dias do meu p\u00f3s-parto. Super recomendo! \n.\nVoc\u00ea usou? Conta aqui como foi a sua experi\u00eancia \ud83d\udc47\ud83d\ude09\n.\n#absorventeposparto #absorventepuerperal #partonormal #partovaginal #partonatural #posparto #puerperio #obstetricia #doula #obstetriz \n.\nMariane G. M. Santos\nObstetriz & Doula \nCOREN-SP 231"
+                    }
+                  }
+                ]
+              },
+              "edge_media_to_comment": { "count": 2 },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1641330743,
+              "edge_liked_by": { "count": 19 },
+              "edge_media_preview_like": { "count": 19 },
+              "location": {
+                "id": "100231328893572",
+                "has_public_page": true,
+                "name": "Campinas SP",
+                "slug": "campinas-sp"
+              },
+              "thumbnail_src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/271186847_396675512204011_2990638888659650540_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=VUwbhK1Q83gAX_I3u3S&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_ciAYdY8VpiB_BkISQEA3ZewfDr9fefDg3iigO1P1GrQ&oe=61F2AAFD&_nc_sid=7bff83",
+              "thumbnail_resources": [
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/271186847_396675512204011_2990638888659650540_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=VUwbhK1Q83gAX_I3u3S&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-KzEoaw0fDzzcXNAOpNneEAqwPphBihXn_Em2IK-oOZw&oe=61F2C0BA&_nc_sid=7bff83",
+                  "config_width": 150,
+                  "config_height": 150
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/271186847_396675512204011_2990638888659650540_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=VUwbhK1Q83gAX_I3u3S&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_adpsxtRgiipRBcVGEDFErJvuwQqAPpCF5EvzxeO3wLw&oe=61F172C0&_nc_sid=7bff83",
+                  "config_width": 240,
+                  "config_height": 240
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/271186847_396675512204011_2990638888659650540_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=VUwbhK1Q83gAX_I3u3S&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT9Xoq515Eh6dLeJqCK7DiszsphKY9CUTX4P2FjwjljuHg&oe=61F19502&_nc_sid=7bff83",
+                  "config_width": 320,
+                  "config_height": 320
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/271186847_396675512204011_2990638888659650540_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=VUwbhK1Q83gAX_I3u3S&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT9E_9Nq47EOhEvZ5fWuq1I4-NKhGZzBFs2EYEC0b3-saw&oe=61F1BF87&_nc_sid=7bff83",
+                  "config_width": 480,
+                  "config_height": 480
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/271186847_396675512204011_2990638888659650540_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=VUwbhK1Q83gAX_I3u3S&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_ciAYdY8VpiB_BkISQEA3ZewfDr9fefDg3iigO1P1GrQ&oe=61F2AAFD&_nc_sid=7bff83",
+                  "config_width": 640,
+                  "config_height": 640
+                }
+              ],
+              "coauthor_producers": []
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphSidecar",
+              "id": "2726703255912887319",
+              "shortcode": "CXXMioglrQX",
+              "dimensions": { "height": 1080, "width": 1080 },
+              "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/266139650_458822892425203_6088726749478934750_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=t4lGtP5ljcQAX88wSqs&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_4w4jmY5o5H-WK9-nKaIErzuNsNTGYRhlgytw6u5H-iQ&oe=61F2BC57&_nc_sid=7bff83",
+              "edge_media_to_tagged_user": { "edges": [] },
+              "fact_check_overall_rating": null,
+              "fact_check_information": null,
+              "gating_info": null,
+              "sharing_friction_info": {
+                "should_have_sharing_friction": false,
+                "bloks_app_url": null
+              },
+              "media_overlay_info": null,
+              "media_preview": null,
+              "owner": { "id": "13564608757", "username": "mari.obstetriz" },
+              "is_video": false,
+              "has_upcoming_event": false,
+              "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on December 11, 2021. May be an image of baby.",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "Hoje voc\u00ea completa 4 meses! \ud83e\udd70\n.\nUma beb\u00ea t\u00e3o meiga, alegre, que ama uma farra/um agito, que acorda sorrindo, que tem o sorriso de gengiva mais lindo, que tem um olhar t\u00e3o doce e o melhor cheirinho.\n.\nMinha lindeza, te amo tanto! Um amor que n\u00e3o cabe em mim. \u00c9 inexplic\u00e1vel!!\n.\n#bebe #quartomes #mesversario #maedemenina #maedeprimeiraviagem #maternidade #doula #obstetriz #obstetricia #campinas\n.\nMariane G. M. Santos\nObstetriz & Doula\nCOREN-SP 231"
+                    }
+                  }
+                ]
+              },
+              "edge_media_to_comment": { "count": 8 },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1639268379,
+              "edge_liked_by": { "count": 57 },
+              "edge_media_preview_like": { "count": 57 },
+              "location": {
+                "id": "100231328893572",
+                "has_public_page": true,
+                "name": "Campinas SP",
+                "slug": "campinas-sp"
+              },
+              "thumbnail_src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/266139650_458822892425203_6088726749478934750_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=t4lGtP5ljcQAX88wSqs&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT8KVOhbP7S9MXc5uhREnDinxEF4fTL4jz00oYHAPsS9yQ&oe=61F1CE13&_nc_sid=7bff83",
+              "thumbnail_resources": [
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/266139650_458822892425203_6088726749478934750_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=t4lGtP5ljcQAX88wSqs&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT--mW_HBL9A2OziaBEaZwGafMrSxGpz2kRU2G7OHAflkg&oe=61F23098&_nc_sid=7bff83",
+                  "config_width": 150,
+                  "config_height": 150
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/266139650_458822892425203_6088726749478934750_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=t4lGtP5ljcQAX88wSqs&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT9gbHcX9F3uZk0JMy5kVRKWqyesxSarNe8dG8A3GlIedQ&oe=61F123D2&_nc_sid=7bff83",
+                  "config_width": 240,
+                  "config_height": 240
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/266139650_458822892425203_6088726749478934750_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=t4lGtP5ljcQAX88wSqs&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT9C9NziJLIf0AMIJa7vU9u0psJILylS4J0RsiZA1IJc2A&oe=61F227B0&_nc_sid=7bff83",
+                  "config_width": 320,
+                  "config_height": 320
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/266139650_458822892425203_6088726749478934750_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=t4lGtP5ljcQAX88wSqs&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-tnQgxyAKYI1D7CFRsn3fZnvqkMbxxsqTCqVuWD0yufw&oe=61F23EA9&_nc_sid=7bff83",
+                  "config_width": 480,
+                  "config_height": 480
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/266139650_458822892425203_6088726749478934750_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=t4lGtP5ljcQAX88wSqs&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT8KVOhbP7S9MXc5uhREnDinxEF4fTL4jz00oYHAPsS9yQ&oe=61F1CE13&_nc_sid=7bff83",
+                  "config_width": 640,
+                  "config_height": 640
+                }
+              ],
+              "coauthor_producers": [],
+              "edge_sidecar_to_children": {
+                "edges": [
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2726703253203230516",
+                      "shortcode": "CXXMil_FJ80",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/266139650_458822892425203_6088726749478934750_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=t4lGtP5ljcQAX88wSqs&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_4w4jmY5o5H-WK9-nKaIErzuNsNTGYRhlgytw6u5H-iQ&oe=61F2BC57&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoqy2kMIXHJHPPr60jX0pHUD6CoJX3tnpQsMkvCKW+gpga1pAJlDSfMx55/wqK+UwAGMlQeMCrsCYVRt5xg+1VtU2qoUdiOnQdf8ioW5bWhUtrxom/eZYH8xWl56HkZIPsawT0qQTyY61pczsOiYAkn06etdBCBFGAT97k4/wA9u1c5EAZFDdCQK6OKJUGT39ewqGy0rlgOhOODn/PJqN40cNGSAM/Wq0s5Q7Y/xPGf1pCkjRnacuRx9T3ouPlMmaBUBzkEccetRBcDr/KmF2GUzkA9fXH15pcVRBJZtEjF5s8D5QBnn/PStSO4ebqoC/w5zkDtk9M1gtXRw/dX6f0qGXEaE2Hc3QVMt0NokTDKTj0IqrN0P1H8qcQFjwOOR0qVoaFTUlUFXxtLE8D0/wD11nb6uaof3i/7g/mao1S2MXuf/9k=",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on December 11, 2021. May be an image of baby."
+                    }
+                  },
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2726703253161495326",
+                      "shortcode": "CXXMil8l8se",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/266810290_731417111151002_3824044942010383027_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=WNJs5LFsSUQAX_IcY41&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_naZKNCCndakG5T0YwWM327p6sbB-2Y1rktUiO9WDKfA&oe=61F2B0ED&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoq0MmmngU8DH1qImmMGNVZWBBHTHoaklfacde/fpVGR9xOenbBqWy0uo+Gcg7GOR2Pf6H19qs76zYxukz2X+dX91NEMuFufWmswA3dacAOaeUUjkZ/pQwRlNIznPbtTmhVh71bCq/YgAZz9ef5VC6YAZT1HHpUmzat2ZTUbWwOn9atVCAfvGpc1SMmaQFJIQq8nG7Jz+n+NL61TuvuH6r/ACNJjgruwbmIbnA25H0x3zQG3w89jQhz1/u1EnEePc/0pFyWnoKo3A5+tLiiPofxpRVLYxP/2Q==",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on December 11, 2021. May be an image of baby and indoor."
+                    }
+                  },
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2726703253236855792",
+                      "shortcode": "CXXMimBFbPw",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/266396166_635775967781803_8710356780045758291_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=SFPJyPJRMPgAX9YaDgF&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_CyYIsvQOgwnM_AN47brebMirVRICzFcBkr3GoudSHlw&oe=61F264DA&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoqp22evb3rVi+bHT8Ky7fkYP41cRDGQqAgdag1LbnBxxn61mTAA5H4j0rQWEbt/O4+/wDSqwYMT35IoJZWSrGarsuw5HT/AD+lO35pkixDY3P41cduhHP0qAsAcDqcD+dRyrg/IcH9KGiky29wI1/2uwqnEhA5PXv/AI0gXuTk1aicYwcYxQhNlZjj/PJ+v+cUm1vQfpU7DPzDgH+n9f5VF8n+TTEQEsrbsZJp+4/xfkKnccj6CkccUmykuoKu8dh70gt8MVGGI5/H8au2wpIwC+T1/wDr1NyrIa8WEAPOD0zUefpVl+VH4/zqHFWZn//Z",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on December 11, 2021. May be a closeup of baby."
+                    }
+                  },
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2726703253245370506",
+                      "shortcode": "CXXMimBl6CK",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/265674389_250409957029503_4389203453675083336_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=mcInX28hcjwAX8P9oYJ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-qIDN44NdSmU2ou0VFwVjEN8ZcgSyXFY-1gDX9KYch7A&oe=61F24B8F&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoqiuLmRiqyKVGM4Bzn3P8AhUqXJjzlW25wB159vas6W+NwfuhCB1BPNWbX96cKQCMZzyD+dZWsbKzLTXIz0cZ/2T/Sqkk6CRTycBgRg55x2p95dyW7+XhCMZBxVW2mJkMnAJx1zTJ8jQRxIMryKm21kzXDo5K7RuwT1xn2p32qX++B+FFhmfjHSrME6xN8w/PpnseKjtY/Ok2ngDJP0FWVjRzvIBB96vfQhO2pJOv27DRYXYNoHY9/zPUe1VoojC3PWrySqpzjGBgd+P5kfXPtirojSdVZvvY//Vmpd9i1b4jCjjEkvluSMk8+9Pa1kBI25weuTz71bvIljw69c/4VaWZSAc9R60rglcoR28kSyZU72XAI6Y6k56f/AFqUxiEhM5UjIPT6j8/0qe7Y7OpqvecSJ/nuKIu7CS0JIyApDctuIAHf0/8A1/nR86Nn+E8Dvz6H+lMjYiRsH/OaktiTO47Y6VpLYzjvYstaGYBm+Ud888eoquBZDjLHHfmpb1jsUZ4LLn8qpVkabH//2Q==",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on December 11, 2021. May be an image of child and indoor."
+                    }
+                  },
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2726703253228493392",
+                      "shortcode": "CXXMimAlhpQ",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/266778252_1528697634190442_2970575788367511484_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=TSqJFVcYvjYAX941ZsT&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-NNckiUgMtdokUWdQ8m654P-OvGz0ncwG1RDRuHY3WDw&oe=61F1FCDD&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoq1Li4WFST17D/AD2rGWMP+9uD15AJ/U+/t2qlcXRmPoScnn/PA6VVdvxpiNsNGfukYH4VKmCM1FYRiOIEryRu6dc9MfhVTUMbhjjPYcfnSuVy6D72MR7ZF7nB/p/WrayuABuPA9ax/MdoihOQpBGeo/GrnmS9gMduKYirbqTkKNzHt9Kl+xyOcBOent+fSnRQzWoMpXORjGeg98dK34InIDSYz1IH8qSfzHYzxN5KjfwQMY9x+tZs7iUGQnGD/wDqrXvLETSb1baSOQR3HT/69Y1xC8HytjDdx0yKLLvqO7+RXDgKV7tg/r/hXQx6jbBQPQDsPT61zW3LY71vf2Kn98j8P/r0ySa4nCHH51VtZN5+eQqinhM+v64Hp/Kqt4f334CmWw/er+P8qSXutlN6pG48sYGFP5Vgzzs52nkA9afckgkCqp+7SXccn0LdiylwrIrEtkMeox/+rNdFvNcxp3+vX8f5GugxTIP/2Q==",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on December 11, 2021. May be an image of baby."
+                    }
+                  },
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2726703253295720724",
+                      "shortcode": "CXXMimEl-kU",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/265864144_912468452971274_5924359776603784338_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=_NRBosB_YSMAX-muMWX&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT8rlN6zt8gOwEAPZRiK9v6dQgXNkJAdXuok_T41lHvFjA&oe=61F2216C&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoqs9KrSkn5emOv9KtLyMVA69e/FQWtyvGxibGSV7gnP4+tXN+77o/Gs4uTn5evQir0ThhjvVIGib7vWk3ik207Apkj2UE5FMICc04/Lz2pHyRntzUFopx43MWICk8DH8+/NWfKHWqGwsC3THrmrcRITn8KE7lMmBx7infLSBcDmlqzIcelRhwBipe1VWqR3sKFXB3YJJPORSxnAC5yQO1QPRB9786pKwNloc96lqI0ZoEf/9k=",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on December 11, 2021. May be an image of baby and indoor."
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphSidecar",
+              "id": "2706989351326687369",
+              "shortcode": "CWRKHkIl6CJ",
+              "dimensions": { "height": 1080, "width": 1080 },
+              "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/256448887_593662255088699_772428148933884313_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=qVkN-hmzvTEAX-1IL9g&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT9pwpS0NGYLMOgOGA1WZGffrx24QhMRQ8Swec8VreaZkw&oe=61F1089E&_nc_sid=7bff83",
+              "edge_media_to_tagged_user": { "edges": [] },
+              "fact_check_overall_rating": null,
+              "fact_check_information": null,
+              "gating_info": null,
+              "sharing_friction_info": {
+                "should_have_sharing_friction": false,
+                "bloks_app_url": null
+              },
+              "media_overlay_info": null,
+              "media_preview": null,
+              "owner": { "id": "13564608757", "username": "mari.obstetriz" },
+              "is_video": false,
+              "has_upcoming_event": false,
+              "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on November 14, 2021. May be an image of child and text that says 'MEU RELATO DE PARTO PARTE >>>'.",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "S\u00f3 tenho a agradecer a Deus por tudo! Foi como eu desejava, como havia pedido em ora\u00e7\u00e3o. Uma gesta\u00e7\u00e3o tranquila; chegar parindo na maternidade; ser assistida por profissionais que respeitassem o meu plano de parto, o meu parto e a mim tamb\u00e9m; uma beb\u00ea saud\u00e1vel; conseguir ter o parto registrado. \n.\nObrigada @andreos_santos pela paci\u00eancia, pelo amor, pelo suporte, pelo carinho, pelo companheirismo, por acreditar que eu era capaz de parir a nossa pequenina, pelo incentivo, pelo cuidado e por enfrentar junto comigo essa \"maratona\". Te amo muito!!! \u2764\n.\nObrigada @jadermoraisfotografia pelo registro maravilhoso, com fotos incr\u00edveis, do nascimento da minha pequenina Alice. Desejo muito sucesso!! \ud83d\ude0d\n.\nObrigada @carinho_demae_doula pelo suporte, pela paci\u00eancia, pelas palavras de incentivo e por me deixar esmagar sua m\u00e3o tamb\u00e9m..tadinha rsrs. Desejo muitas gravidinhas para voc\u00ea doular!! \ud83d\ude0d\n.\nSou muito grata aos profissionais da @maternidadedecampinas que prestaram assist\u00eancia excelente desde a minha interna\u00e7\u00e3o at\u00e9 a alta. Respeitaram minhas escolhas para o parto, o meu plano de parto. Foram atenciosos, cuidadosos e respeitosos. Alice permaneceu comigo do nascimento at\u00e9 a alta. \n.\n\ud83d\udcf7 Fotografia: @jadermoraisfotografia\n\ud83d\udc69 Doula: @carinho_demae_doula\n\ud83c\udfe5 Hospital: @maternidadedecampinas\n.\n#gestacao #trabalhodeparto #partonatural #partonormal #maternidadedecampinas #nascimento #obstetricia #doula #obstetriz #campinas\n.\nMariane G. M. Santos\nObstetriz & Doula \nCOREN-SP 231"
+                    }
+                  }
+                ]
+              },
+              "edge_media_to_comment": { "count": 10 },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1636918299,
+              "edge_liked_by": { "count": 50 },
+              "edge_media_preview_like": { "count": 50 },
+              "location": {
+                "id": "152178748802369",
+                "has_public_page": true,
+                "name": "Campinas, S\u00e3o Paulo",
+                "slug": "campinas-sao-paulo"
+              },
+              "thumbnail_src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/256448887_593662255088699_772428148933884313_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=qVkN-hmzvTEAX-1IL9g&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-E44gA8DLmAAosJZXjPUSNRQgbkGHAQHPw09a1d0Qi_Q&oe=61F2A379&_nc_sid=7bff83",
+              "thumbnail_resources": [
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/256448887_593662255088699_772428148933884313_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=qVkN-hmzvTEAX-1IL9g&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT8Ps9wJKaoWRKdp601LtBQ0bxb7iRsHoExrCrGCrGg6-w&oe=61F21320&_nc_sid=7bff83",
+                  "config_width": 150,
+                  "config_height": 150
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/256448887_593662255088699_772428148933884313_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=qVkN-hmzvTEAX-1IL9g&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_0GHqefdSzr0o_LZobYibtHHKDFf16r2BfA_OrjHXr9w&oe=61F23A16&_nc_sid=7bff83",
+                  "config_width": 240,
+                  "config_height": 240
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/256448887_593662255088699_772428148933884313_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=qVkN-hmzvTEAX-1IL9g&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_12WCRODTtuvPjfu6sSVySDhPwcWGWuMlgTp13-QZJeg&oe=61F2A030&_nc_sid=7bff83",
+                  "config_width": 320,
+                  "config_height": 320
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/256448887_593662255088699_772428148933884313_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=qVkN-hmzvTEAX-1IL9g&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-zdj0g9dICL7uXVMfW1KVtc0DmzWbxhd5smWI4ivy-yw&oe=61F22A36&_nc_sid=7bff83",
+                  "config_width": 480,
+                  "config_height": 480
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/256448887_593662255088699_772428148933884313_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=qVkN-hmzvTEAX-1IL9g&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-E44gA8DLmAAosJZXjPUSNRQgbkGHAQHPw09a1d0Qi_Q&oe=61F2A379&_nc_sid=7bff83",
+                  "config_width": 640,
+                  "config_height": 640
+                }
+              ],
+              "coauthor_producers": [],
+              "edge_sidecar_to_children": {
+                "edges": [
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2706989347929261721",
+                      "shortcode": "CWRKHg-FwaZ",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/256448887_593662255088699_772428148933884313_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=qVkN-hmzvTEAX-1IL9g&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT9pwpS0NGYLMOgOGA1WZGffrx24QhMRQ8Swec8VreaZkw&oe=61F1089E&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoqj6UoXzeF4NN8stkA9PWpm3RKMbeozyeeeazuaKLZE9q4HyYZvUnpVfzCWCPjIBLf/r/Ktx4lUb14wM/Wqk1skq5X5SRwcdc880vUpPsYUr/Nx0qDdW0toACDiQZ5BHIqP7JbepH/AAKquRbsNTcZGC/MDz/9arRj6bwQB/CMnPrn0Gfzq6qBenH0pdxHRfxyKOVlqTWiRFDcbso3y5+6D/LHb2qUDAx6UjAt1AoCkdTk0NPsLrcZnac0FVPPH5Ujhuwz+VVDFN6H8x/jQk+zBo1FYDqM07ev90VHRW4yQMDxtHP+c1Jtx/Cv51XooCw7aefam0UUwP/Z",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on November 14, 2021. May be an image of child and text that says 'MEU RELATO DE PARTO PARTE >>>'."
+                    }
+                  },
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2706989347937619199",
+                      "shortcode": "CWRKHg-loz_",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/256324045_1178966242511986_2413224414541521067_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=WSeOyx-WMyIAX_KM7Br&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT8GyZZq1xymFmtJItDd56rD859iOnYxr1Q6tadexY0WOA&oe=61F1E78B&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoq0EcOMjmlNIh3dKeflGWwB7nFZlkWPWoN+cgYYdM/57/yq5s3D1BrPuLfyo2KcYGQB7EE4/Cgat1FSPzs7SDgkH2IpptZPT9RWekzQoMEAscsT/tc1J5/+0P1/wAaRVjVhzGcHkY49aqXU+6dY24AXOCAQTzU8TETDPQg/pg/zzUzJHI+8gbgMZpklRZ2UAJgDOcHjGccD2ouXnJ2quB0yT696cJI/M8onkg59/b+dVjugAAbgZ7k59OD096NSnYzbhsOccjP61X3D0/WpJSXLFjnJzgVWxVJGbkb9q0jyAsCAOufcfy9amuHeE/IOAOvpmlY4zj/ADzU1x/qz9DUl3Mo3RyGPPY1XuGbJB7HH+fwpsnSlc5P4CmhS1KpzRsNSL1qXAqzM//Z",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on November 14, 2021. May be an image of one or more people, people standing and hospital."
+                    }
+                  },
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2706989347811738767",
+                      "shortcode": "CWRKHg3FcSP",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/256523308_3123758594559034_6392029583829658123_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=HwiF0dAThgUAX8jQ3ZJ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_jJuLuvARIKtcZ1crDRHV2wVR_gjv0CUE6POyF0GtKgA&oe=61F196A0&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoqsXxyvAPXHT/PFU7fJBzxyaja7LvjcWHOc9vp61fjiOw57isywWPcMjkVbigUdcVlM2FLYPGeOhH4fqRWhG2Y1zydo/lQhsumBSMYBBqD7FH/AHRSRSMhweVP6fSr2M1RBw9upLr15IFdK8giQseg6msLTRlyT/CM/nxWo1wwfbjj17f59qTKWpnywOIxKoJOd3PXr6emKtPPhQPukDj8O3pWgX3LjBIPf196yLlc4VARn171JXmTG9aY7UGB/P1/D/JrRWQgDJ5xWPAdpxnBHUVY86mSQ2EJRNx6vz+Hao3VmlJ9OmO9PJIHHFPt/vH6UMaXUmimYvtJPIzz+vamy535bBGOO3+TT5D39MU25+4fqKQbsptHhi6nk9QcUn7z2/SoCTRk0Dsj/9k=",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on November 14, 2021. May be an image of one or more people, people standing and hospital."
+                    }
+                  },
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2706989347828535377",
+                      "shortcode": "CWRKHg4FhBR",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/257621587_2333174626819082_1533358099546820820_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=PR_e64myXdoAX8cpwVv&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_LwJIDNdp1FPPeiol6zYGRLCaEiegcpECO1AzlZ1tskQ&oe=61F18DBB&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoqt524XPX1qM3O1sAcc+/Sp3AHORke9UJS0a5QbixwM9v8azNBftKxv8+4hmxnPT0/CtEMMccVzMzHzUU54Iz+daYlwcZ6/wA6ewtHsXkJ+bPr/SmF+aXzAq5NYj3x3HjuaW4tiBP38mCcZOcdc+taBd9/lsTtHIJ7egqvZWWcSsdozwO57fhWoYIzknv3z/n+VDKWqKbAyANt34JAI9uvT/69V355x34zkYNaaOqYQEfh+tMd1myoIGTkGpL9Cp5floXdiT2GeAen49aqfOeeKuXMUh/d8c/41YCADHHHtVEWb2ILlzCNg79Me5yaqea0nStW7UE8gVmIAGbFArtE9rAG+dzn2qo77XIToDgY9PrV0f8AHu30/wAKzY+tA0XmlZsv3/SlHnnov6iom+6apCRgOp/M0ht2P//Z",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on November 14, 2021. May be an image of one or more people, hospital and indoor."
+                    }
+                  },
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2706989347945964828",
+                      "shortcode": "CWRKHg_FeUc",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/257424923_676646209984744_623206308223262347_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=ooLKE8c_97QAX9L_CKr&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-iZUsrSZctQcI0IVJpWGO1H29qCRr3oOA3zNjFZOiPGg&oe=61F20B7D&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoqylIU1ZjLXDBVGT2HQVMdImC72IJH8I/x7n2qFVeM4IK4/A0AaTaeIozJN823BKjpjIzn1/DFWFuR1xmM8ZH8Pp+Hb2P1pE1FUj/e8k9OOo75rLM46wfKpPzL2wfY5/wNAG+VScbHwT2Pf/8AX/OqX9mv2kGO3H/16itIwJgM52nt7AkflW9QBy8l1dTnMasAOSR6ZHA9+3Fa7Rm5QiRdrDof8PapY5BjHpVG/vDGhC8Hjn8f69KAM27lzsQj7o5BH+fT+tQW6EuSBhNp/lx+taUAbUYGaXAK52tjkYGfxHYiqVm5wWbGGG0e2ev4mgC5pUf73jooJx+gros1nadEqKXHJPBz7f41fxQBgRzlulV7iGS6Q+WNwHVsgDj3PXHtmoHOFGO5Ga6tFAjCgADGMdunpQBhQMxQRqMcbR+P+NJHpswIQjA9c8D61c01RubgfL09vp6VrUARRxiFdueKXcP8mo3PzfQVmdaAP//Z",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on November 14, 2021. May be a black-and-white image of baby."
+                    }
+                  },
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2706989347828460016",
+                      "shortcode": "CWRKHg4FOnw",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/256517010_305116347940074_1339817818908102406_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=BCbRo_OseOMAX9_Cw8-&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT9ovsYlBKSdtPLlYB4gGWvUia-FiS8PrmXVVF03_xZqgg&oe=61F1CC6E&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoqxZpCwx27VBGcZH05qY5AycGkj+XkBfTk+v070hk0PysPf/I/lU0sXzbh3/nU/lrMoI6j/OP8KliG4FX4I45/zjnv+YqC9yzaTsykdCvH6VN5rf7P61HGgjGBjPUkmpPtKDj/ABoBnKkUDIp2aVcE9vx6VQjbtITKmUIA9wc/4VdFme7fkP8A69Zdo5jbAJA9O35//qrVXUYgOTnHoM0tAaY8Wij1pPsEXofzNTxTrKMjIz0yMZqXmmL1OPjQZwf8+o/qKUxMp3D5QfUdatQgb1+oqxqf3R9TUmj0aRntGSmV4+meafbwlm2nkH/Co7dj6mtiAdfrSbsaJdSXeNqgcEY4rSzWNHzcDPof5Vr00ZSP/9k=",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on November 14, 2021. May be an image of child."
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphSidecar",
+              "id": "2706987301830317663",
+              "shortcode": "CWRJpvZFtZf",
+              "dimensions": { "height": 1080, "width": 1080 },
+              "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/256070260_193651222849535_8191163091042176288_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=SVq3_w53rHkAX-pzXT2&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_aV5bw5h0MJACuu-4LfYUlacytnTaF4nRM_3tLODu1rg&oe=61F193A3&_nc_sid=7bff83",
+              "edge_media_to_tagged_user": { "edges": [] },
+              "fact_check_overall_rating": null,
+              "fact_check_information": null,
+              "gating_info": null,
+              "sharing_friction_info": {
+                "should_have_sharing_friction": false,
+                "bloks_app_url": null
+              },
+              "media_overlay_info": null,
+              "media_preview": null,
+              "owner": { "id": "13564608757", "username": "mari.obstetriz" },
+              "is_video": false,
+              "has_upcoming_event": false,
+              "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on November 14, 2021. May be an image of child and text that says 'MEU RELATO DE PARTO PARTE >>>'.",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "Cheguei na sala de parto e me transferiram da maca para a cama. Comentei com a enfermeira, que prestou assist\u00eancia ao parto, que eu n\u00e3o iria aguentar ali sentada/deitada. Ela ent\u00e3o ofereceu a banqueta de parto. Eu aceitei. Na banqueta foi bom pra mim, porque eu consegui aliviar o cansa\u00e7o estando sentada e conseguia encostar e me apoiar no meu marido, que sentou na cadeira atr\u00e1s de mim. \n.\nPermaneci na banqueta de parto por um tempo. A dor me guiava a mudar de posi\u00e7\u00e3o. Sentei na banqueta, ajoelhei no ch\u00e3o, fiquei em 4 apoios no ch\u00e3o. Num momento de exaust\u00e3o, no final do expulsivo, quando Alice j\u00e1 estava quase coroando, voltei para a cama, em posi\u00e7\u00e3o semi sentada e foi ali que ela nasceu. \n.\nO nascimento! Quanta emo\u00e7\u00e3o! Que amor indescrit\u00edvel! Alice nasceu e veio direto no meu colo, em contato pele a pele. Que sensa\u00e7\u00e3o mais gostosa e \u00fanica! \u00c9 inexplic\u00e1vel! Um amor que transborda! J\u00e1 nem lembrava mais da dor que estava sentindo minutos antes! N\u00e3o era dor de sofrimento! Era como ter enfrentado uma maratona e no final, recebi o trof\u00e9u! Eu recebi nos meus bra\u00e7os a minha beb\u00ea t\u00e3o amada, desejada e esperada! Que del\u00edcia de momento!!\n.\nAlice nasceu em 11/08/2021 \u00e0s 22:43, com 40 semanas e 3 dias, de parto natural, medindo 49,5cm e pesando 3210g.\n.\nMeu marido cortou o cord\u00e3o umbilical. Logo ap\u00f3s o nascimento, tivemos nosso momento juntinhas e a Alice foi examinada, pelo pediatra, no meu colo. Tive lacera\u00e7\u00e3o de 2\u00b0 grau, o que precisou de sutura.\n.\n(Continua..)"
+                    }
+                  }
+                ]
+              },
+              "edge_media_to_comment": { "count": 6 },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1636918054,
+              "edge_liked_by": { "count": 41 },
+              "edge_media_preview_like": { "count": 41 },
+              "location": {
+                "id": "152178748802369",
+                "has_public_page": true,
+                "name": "Campinas, S\u00e3o Paulo",
+                "slug": "campinas-sao-paulo"
+              },
+              "thumbnail_src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/256070260_193651222849535_8191163091042176288_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=SVq3_w53rHkAX-pzXT2&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_wkLaWqH6EY8P2GWEtHhAFJyIh1bX4P4TwkpVZSvfBGA&oe=61F0FF59&_nc_sid=7bff83",
+              "thumbnail_resources": [
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/256070260_193651222849535_8191163091042176288_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=SVq3_w53rHkAX-pzXT2&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_50XMaNR5-6VyOsh947NLpJmdTmHFeLqIndcVJqS_Exw&oe=61F2C01E&_nc_sid=7bff83",
+                  "config_width": 150,
+                  "config_height": 150
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/256070260_193651222849535_8191163091042176288_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=SVq3_w53rHkAX-pzXT2&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-WOw5TLRH-d0dFmdcp-eXPx_vzo869vVB-AjmlcEHkrA&oe=61F12A9C&_nc_sid=7bff83",
+                  "config_width": 240,
+                  "config_height": 240
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/256070260_193651222849535_8191163091042176288_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=SVq3_w53rHkAX-pzXT2&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT9uLumf-V44dOm5BppG3yPfUIwpAE4GwIcABY63moYaPQ&oe=61F1FE26&_nc_sid=7bff83",
+                  "config_width": 320,
+                  "config_height": 320
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/256070260_193651222849535_8191163091042176288_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=SVq3_w53rHkAX-pzXT2&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-WGfOo9J9WZZB0afcJo9TnTA97iKLhJum-1XKQUFGzpg&oe=61F21AA3&_nc_sid=7bff83",
+                  "config_width": 480,
+                  "config_height": 480
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/256070260_193651222849535_8191163091042176288_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=SVq3_w53rHkAX-pzXT2&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_wkLaWqH6EY8P2GWEtHhAFJyIh1bX4P4TwkpVZSvfBGA&oe=61F0FF59&_nc_sid=7bff83",
+                  "config_width": 640,
+                  "config_height": 640
+                }
+              ],
+              "coauthor_producers": [],
+              "edge_sidecar_to_children": {
+                "edges": [
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2706987298566985342",
+                      "shortcode": "CWRJpsWlFZ-",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/256070260_193651222849535_8191163091042176288_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=SVq3_w53rHkAX-pzXT2&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_aV5bw5h0MJACuu-4LfYUlacytnTaF4nRM_3tLODu1rg&oe=61F193A3&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoqj6UoXzeF4NN8stkA9PWpm3RKMbeozyeeeazuaKLZE9q4HyYZvUnpVfzCWCPjIBLf/r/Ktx4lUb14wM/Wqk1skq5X5SRwcdc880vUpPsYUr/Nx0qDdW0toACDiQZ5BHIqP7JbepH/AAKquRbsNTcZGC/MDz/9arRj6bwQB/CMnPrn0Gfzq6qBenH0pdxHRfxyKOVlqTWiRFDcbso3y5+6D/LHb2qUDAx6UjAt1AoCkdTk0NPsLrcZnac0FVPPH5Ujhuwz+VVDFN6H8x/jQk+zBo1FYDqM07ev90VHRW4yQMDxtHPH/wBepCMD7q/nVeigLDtvX2ptFFMD/9k=",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on November 14, 2021. May be an image of child and text that says 'MEU RELATO DE PARTO PARTE >>>'."
+                    }
+                  },
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2706987298558807300",
+                      "shortcode": "CWRJpsWF40E",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/248394838_2433505960114694_3014768374295862832_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=E7XhFCdw7v8AX_Hmdie&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_2ogul0flJkYcx8sRBH1nQoaQtaOeD1enLF8fKUNW7ig&oe=61F144F9&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoqmjQkjnGfT/69aEce33qhGSih2woHUnp/9erS3UcwxEwbHXHapRW5bMmByRUEik8mqhcSBo24BBB9vf8ADr+FEU5CLuOTgc+px/Wi4WGywsxz2+tQiCLHLgfgv+FR3k5QA54PaoNqnk96LBew/UI3wCSCpPTnk4/LPp61DaI9tulP3SMYyOR657Y7etQlp3f7PwW6c+nX9PWtkWP7oRFuAOuKnUu6buU1m+0KyQjJI5Zuig8E98+1M2yE7D8oUY/LjOfYcir62pjK+WQAvfGD+nXjt+NXVIJo8h2truc68LkkSn7vTJ4Geh6fnWgkEJUfP2HQitKeFZR8wyR0/wA+ntWaY1ovYSXMSzWCtIJk+VwQT7//AF6kuJzGuACWb0/n7VerNuwKZBIpZxkcZp0WIjl+cjj8/wD9VRW/b6CkvfvJ9T/SltqVdt2ZckkyMLzmqBsm7MQPQE8VbFPpXuXax//Z",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on November 14, 2021. May be an image of one or more people."
+                    }
+                  },
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2706987298583766225",
+                      "shortcode": "CWRJpsXlGTR",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/256610309_429121925481305_225031035814699162_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=w9a0tcEN0c4AX8EDi-N&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT9TgHx9wFpHtmNdAcIP6yEwENIztoVWZ7kP23eO6QrbkA&oe=61F20063&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoqhGScCr1vEWAYn8MYrLgO1gta0RZI8nvnA74/+vUbFbl9Mr0qvO7Hg5x+lUnm3xsMkEDcCDg8dKW3vCyKX5JAzTuFhJozKhUDOeozj9azjZnP+rH/AH2at3Nx5a5Xuf8AP61R+2y+o/IUrDualwdh3IgJTnoP/rVlR3s3mEPlg3G3pj6dhj+VWLq5eM52nYePrUVkHcM4XK9AP8CaWo9HYSS58xDHGMk9z1xTpI3jiGDxgDpz68U2OF1fcQyvnI/w9h1zWv5gKq4Hfp9eOKCrdTEZZJAFPIGcY9/8PXpR9m/21rVvbd2AZThR1AHb/P5VleWn+c0XYkkzburQXCbTwRyD70lufKiCvgFBg+n1/wA96v1l3/YdiaZBIJlcZPelhcO21eij/wCtVOyUdMVO3EiY45P9aVi79Ei7K2Pl7msg2Bzwavf8tT9BVilcaVkf/9k=",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on November 14, 2021. May be an image of one or more people, people standing and hospital."
+                    }
+                  },
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2706987298583935505",
+                      "shortcode": "CWRJpsXlvoR",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/256353415_479507223354306_4529287715357362734_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=wV5xE30fDNQAX857yM-&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT95-8pxw9JrPWxy5Lamy3WKcFze3bZiGa66s6zRsdkiIg&oe=61F0F79C&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoquZULnBJp0QK8nke9KUJXA60SOMbAfmHUVBRUubnqMAdD1A4/HryKWWKRkUr1wMj0pZrJJmV2/h/X2qYyAsyk4wPp1oGUDBIQB3HWj7NL/k0x3J4yfwNM3N6n86kDU+2omSuWHcgZXP1qo1x5MoEg5c8H2/8A1+lZlvdBVCNhdvTPQnPf0xWixeaIBQDz1/wJ/n1p9dSumnzL0koUc8Vk3Um48d/5VowsGGxxyvXdz+vf1zTpI1fjjg/5FILW2MNiy4Yg4PQ1bV0wOR09a0XQSDggrjBH8selVTZydjgf7opi9AvLUOyyBdwU/MO5Hr749KnkuVReoAPAq32rKuun0B/nTES72kOOg7mnTEJIFHAxk+5/+timp938QP0qKY5MZP8AcqWtCk7svK5XoAQevY/4VL5q+/5VSjPFS0kymj//2Q==",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on November 14, 2021. May be an image of one or more people, indoor and hospital."
+                    }
+                  },
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2706987298600772219",
+                      "shortcode": "CWRJpsYl-J7",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/256466868_943697863244696_5976016151226795885_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=AwWkFti83UEAX-EZhED&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT8w30sNg9ibMM0yqPH1lqCJ9DwEhyqZmUI79bPcOTGMKA&oe=61F2D9E9&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoqsM6uf3hxzwM4/wA9asxosK7U4H86zco8oIAwD1/DipWmbOw4xkYPfHf/APXWbetmaW0ui3uJ5rEe8R0A581cqMfWtpjx9TWUtkI5TIecklR6Z7/4Uxehc2GJByTnrnnn61DvPrTpHyuB07VSyaQCQPvbH95q1JoMHKjI/Uf4/wA6jisVhIkyWI7cYyRV1n28nih2Y1eJRZ22jHIB6iqV1clvlQf571PNKSSF4yenr68VWETSkgDaPU8A/wBTSv3Kt2HG5DrgAg/4VR8w0XBaJygwff1qcXremPwq0jNm9K4C+meahknDLnsDj64FU85cZ55qWb07f/WFZm21kCbUO7OScbcjHXqfcj2pz25ZSykbj6njNPkAMA9hVW0dmxuJPXqc0EiyQIRhyoYdxVfyIf73+fzrXwD1qi3U0a9w07H/2Q==",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on November 14, 2021. May be an image of one or more people, people standing and indoor."
+                    }
+                  },
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2706987298592198168",
+                      "shortcode": "CWRJpsYFQ4Y",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/256639322_218452847035503_3779097362773296099_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=cMtWRJn-GKAAX_y1uYm&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT9U19VPC-T4NJH3Sv5P4pBFFAK6nWAqRQuBsbLSCWOLrA&oe=61F1FBC2&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoqidWbdt5IwfoMHNaUKqqgAY9fyqmyuk2V5DjmkmlaNsg4BGCMd+1Zt7GijuXCS361lz3KIzRSfdOCPqK0UYLHkdh+v/66z7myExDE4wMH370xDLZTIhkJJI5X6d/f6VGTU6NtyF4A4/ADFVCRnqKQGixZrhNv+R3q1dQBxuHXuPX/AOv/ADpyxLHIGUZ+XHXsec/57U55Qpw3GKW6sNXTujM3MEKj1/z+NV7m6ONqfn/OrUlyo3EgZ4A+neqYh8xsL0H4/T/6/wCtC8ymr6oWOYFMYOcVS3VLMxhYqw5xThLBjp/OrSM2bjzBXyewzUcrhmw+RnH1H+e9QW4yxzz0p78yj/eH9KzNetgjREGeHYkjnjH4H1/zxQ0EoGUI56DI/nUd/wDLICODjqOtWgcsueeKBbFJrQOcyfeHqR/Sk+zJ/s1PMo54FZpo1HZbn//Z",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on November 14, 2021. May be an image of one or more people, people standing and indoor."
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphSidecar",
+              "id": "2706983894872499028",
+              "shortcode": "CWRI4KalCNU",
+              "dimensions": { "height": 1080, "width": 1080 },
+              "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/256752194_604653580868858_1267298835156227330_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=OyPXRzttJ_wAX-4MxnQ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT8HnhtvLgTyQN-5HjJAaTUetEFzQpZMAVIwHfvPrv-YSA&oe=61F1F1DB&_nc_sid=7bff83",
+              "edge_media_to_tagged_user": { "edges": [] },
+              "fact_check_overall_rating": null,
+              "fact_check_information": null,
+              "gating_info": null,
+              "sharing_friction_info": {
+                "should_have_sharing_friction": false,
+                "bloks_app_url": null
+              },
+              "media_overlay_info": null,
+              "media_preview": null,
+              "owner": { "id": "13564608757", "username": "mari.obstetriz" },
+              "is_video": false,
+              "has_upcoming_event": false,
+              "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on November 14, 2021. May be an image of person, child and text that says 'MEU RELATO DE PARTO PARTE >>>'.",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "Chegamos na maternidade, meu marido foi fazer a interna\u00e7\u00e3o e eu passei pela triagem. O enfermeiro examinou e j\u00e1 estava com 8cm de dilata\u00e7\u00e3o. Fiquei feliz na hora, porque estava sendo como eu queria/desejava: \"chegar parindo\".\n.\nO enfermeiro trouxe uma cadeira de rodas para que eu pudesse subir at\u00e9 a sala de parto. Mas, ele viu que sentada ali eu n\u00e3o iria aguentar de dor. Eu gritava de dor (acho que a maternidade inteira me ouviu gritando \ud83d\ude48\ud83d\ude02) e, nesse meio tempo, vieram em torno de 3 ou 4 contra\u00e7\u00f5es, e ent\u00e3o o enfermeiro me levou at\u00e9 uma maca e resolveu examinar novamente. Ele estava estranhando a evolu\u00e7\u00e3o em t\u00e3o pouco tempo, e eu j\u00e1 estava com 9cm de dilata\u00e7\u00e3o. \n.\nEu pedia para chamar o meu marido pois sentia que a Alice iria nascer. Eu sentia muita dor, uma press\u00e3o embaixo, contra\u00e7\u00f5es bem pr\u00f3ximas uma da outra e com vontade de come\u00e7ar a fazer for\u00e7a.\n.\nAntes de subir para a sala de parto, o enfermeiro examinou novamente e 10cm de dilata\u00e7\u00e3o. Dilata\u00e7\u00e3o total e ent\u00e3o, a correria.\n.\nA m\u00e9dica apareceu nesse instante e viu que eu ainda estava de alian\u00e7a e brinco e pediu para retirar. Era o enfermeiro tirando o brinco de um lado, a enfermeira tirando o brinco do outro lado, a maca sendo levada rapidamente para o elevador e as contra\u00e7\u00f5es \u00e0 todo vapor!\n.\nN\u00e3o deu tempo do meu marido fazer a interna\u00e7\u00e3o, foi interrompida, e terminou somente ap\u00f3s o parto, para que ele n\u00e3o perdesse o parto.\n.\n(Continua..)"
+                    }
+                  }
+                ]
+              },
+              "edge_media_to_comment": { "count": 2 },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1636917648,
+              "edge_liked_by": { "count": 37 },
+              "edge_media_preview_like": { "count": 37 },
+              "location": {
+                "id": "152178748802369",
+                "has_public_page": true,
+                "name": "Campinas, S\u00e3o Paulo",
+                "slug": "campinas-sao-paulo"
+              },
+              "thumbnail_src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/256752194_604653580868858_1267298835156227330_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=OyPXRzttJ_wAX-4MxnQ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_cTaOPog2no8HdBDBNirGLxhFy8sBrBKqM2ExkY4GU1w&oe=61F28CA1&_nc_sid=7bff83",
+              "thumbnail_resources": [
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/256752194_604653580868858_1267298835156227330_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=OyPXRzttJ_wAX-4MxnQ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT8ZRrtLuJZ4a-4Dk5bg5umrsZr7F6mDIH_167qRIO2qcg&oe=61F29126&_nc_sid=7bff83",
+                  "config_width": 150,
+                  "config_height": 150
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/256752194_604653580868858_1267298835156227330_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=OyPXRzttJ_wAX-4MxnQ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT9bOp-_qDUUJEK2eFsjZ-uwbeMANn9hQNGLkeZ25p8Q4g&oe=61F1A224&_nc_sid=7bff83",
+                  "config_width": 240,
+                  "config_height": 240
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/256752194_604653580868858_1267298835156227330_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=OyPXRzttJ_wAX-4MxnQ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_dnR1EcgYhlXAN3yGJ-YwqJ3lO389OOrOOthZJRCKUVg&oe=61F1631E&_nc_sid=7bff83",
+                  "config_width": 320,
+                  "config_height": 320
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/256752194_604653580868858_1267298835156227330_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=OyPXRzttJ_wAX-4MxnQ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT__FIaqCqgJhgTTPkpQ_Ff0-A0X8kVL8YRE_0u5SNSCJw&oe=61F1AD1B&_nc_sid=7bff83",
+                  "config_width": 480,
+                  "config_height": 480
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/256752194_604653580868858_1267298835156227330_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=OyPXRzttJ_wAX-4MxnQ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_cTaOPog2no8HdBDBNirGLxhFy8sBrBKqM2ExkY4GU1w&oe=61F28CA1&_nc_sid=7bff83",
+                  "config_width": 640,
+                  "config_height": 640
+                }
+              ],
+              "coauthor_producers": [],
+              "edge_sidecar_to_children": {
+                "edges": [
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2706983890686684661",
+                      "shortcode": "CWRI4GhFa31",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/256752194_604653580868858_1267298835156227330_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=OyPXRzttJ_wAX-4MxnQ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT8HnhtvLgTyQN-5HjJAaTUetEFzQpZMAVIwHfvPrv-YSA&oe=61F1F1DB&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoqj6UoHm8Lwab5ZbIB6etTNuhUY29Rnk8881m2aKLZE9q4HyYZvUnpVfzCWCPjIBLf/r/Ktx4lUb14wM/Wqk1skq5X5SRwcdc880vUpPsYUsnzcdKg31tLaAAg4kGeQRyPpUf2S29SP+BVVyLX2GpuMjBfmB57/lVox9N4IA/hGTn1z6DP51dVAvTj6Uu4jov45FHKy1JrRIihuN2Ub5c/dB/ljt7VKBgY9KQgt1AoCkdTk0NPsLzGZ2nNBVT6flSOG7DP5VUMU3ofzFCT7MGjUVgOozTt6/3RUdFdAyQMDxgc/wCc1Jtx/Cv51XopBYdt6+1Noopgf//Z",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on November 14, 2021. May be an image of person, child and text that says 'MEU RELATO DE PARTO PARTE >>>'."
+                    }
+                  },
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2706983890678319791",
+                      "shortcode": "CWRI4Gglgqv",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/248051331_1094571127746814_5367145661920630304_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=Q6gPZoYUOhsAX928de3&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_cm4Dt369LS7erow1GhlxsDirK88J1ne5AUU38scSbsw&oe=61F2490E&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoq0NwJ4IpjnnjvVTZLwWKgDnBA/wAKcs35j8vX8qzLsXViIH1pmdmVFVXuJCQEK846471Dc7xICmOOp9PWmIgkjDHngD+VVvNccDOB0+lW7qRCMp/F1H8jVQOcUMFoXys0g+bC57d8fUU2OCRjtZgoHpyfzNNW4z14PQjvn0qCSZlYY6H/AD1p2QXbLs4SHG3JY8gkn/P6VA9wEIyd6t8uff3/AM9KqFyflcn2yemP8au2ieYBuA+TkDHGfU55zUjHmwLp12knI49u/wDn8KzCrqcEcjiug39uppvFO4jEc4kOcZP44pXbI45NRz/6w/h/WpwoEwAAHyj+VO+giYWZYgtgjHfr+NWoyVGCOvWnzcRnHpUcRyoz6VJRIJUGQflxTPtEf94fp/jWRdklwD0wOKhxTsK5/9k=",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on November 14, 2021. May be an image of one or more people, people standing and indoor."
+                    }
+                  },
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2706983890669804538",
+                      "shortcode": "CWRI4GgFBv6",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/256196491_421949109382937_6977469320605613853_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=Td-1ZFJoACcAX9sGqVW&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-HSMc2mRBoWa9e0SPIqw7s9jhS5mGt4gwgL7jV4xd4rA&oe=61F200B7&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoq0sUx8jGBmop5zEAVG7Jx1qdXDAHpmsyyJ2Cgk9qyreVkkYH7vH689q0J0O5VXox5+gGaqNAZWABwo68//WoA248EAjpTGbk/WoonKIFOCQME0wsTTuIxpLlZGwScf09utW4guAdxH5j9DzUIusAdEPPAA59h/wDXpFmDsAQAT096q1xXJLi6HmcHG3179v8A9dWrfDLuH1/H/CqZgaV920Y7ZIGR1z+Pb0q+WUjGMdjjipKBDkZHeozOg4yKe0oP+FUmMBJJIz+NIDMmVt5C9jgDOf1pBvyG7dB9e9SJ/rG/CmDov1b+tUSaUUpPPrVYXZjY5GR2xUKk7fwoFSMieUuT1AJ6Z/On4HvTsCimB//Z",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on November 14, 2021. May be an image of one or more people and indoor."
+                    }
+                  },
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2706983890653171424",
+                      "shortcode": "CWRI4GfFk7g",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/256279782_123807176728204_3405112839708150666_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=92yGwnlC0DcAX_myrvm&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_3I56fqcadOk9qFi-8z_DGszLg6Gi_gAA-G_hD9QmwTg&oe=61F2D307&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": null,
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on November 14, 2021. May be an image of one or more people."
+                    }
+                  },
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2706983890678219203",
+                      "shortcode": "CWRI4GglIHD",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/256783251_421359099707557_5972055115107125892_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=RAU5xXD7MPoAX9gdpoy&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT8rbwKe0sxQkzDqBfXaCXEyIP2qXlxuyAmbge-ACYl67g&oe=61F24136&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoqxjLJJ64PYV0lnmKEZ4NZlvCNue+K10j+UAnis7mjVkVrl/lDkZx05xUNlIbiQy9EUbQPUnBJ/lVqeHI+Xr0welR2hCjYAFPce/egLaaEs04ibGMjGc1VLk85xntgUt6PmUduP55/pUBdO5FPci9hXl+zoWxk9APeobC5lkYl2JUdu2T0+lWri3NzHtXg5yM0yK1kjj2EDJ4JBx+vX9KnZGmjfkaMpJ4APaqFxGSS33TjNTwQNCRkg9jyfT3/AJ1NMVdSp4zn8/Wj1DbYwPOIIUnIzn+lRkS56N+R/wAK0oLSNX3MwbHTjv7+/wD+urmw+op37E2vuHmAVIshqsOtEvQUAWd+elVLhzGhI5O4YJ7ZH61KtRXH3G+ooGQwDI2nnNXAX/ur+tV4eorRqEaM/9k=",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on November 14, 2021. May be an image of baby, standing and hospital."
+                    }
+                  },
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2706983890770658952",
+                      "shortcode": "CWRI4GmFwaI",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/256177077_3022503851352737_3516697934607292813_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=TFwWcIyTo0sAX8z3GL3&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_oVMyizBOjxuhXZ7n9fFfp484UWWg15_iRqWIm6ygzaA&oe=61F16CB7&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoq0XGckVDGHbIzt46j1/GrRWopJkgX5iASagoqyTeUygneSyqQTzyevHcdasXa+ZEdvBHP+f8ACqkluXnSVSDGPmPTrjHHsf0P1qz5yZYMQNuOD7/z9KB7nOXKyu5c7mHYn07Y/wDrU8Ry461rxxIy/MuBjGTw2OfyNWA8ajAIAHA6U9xWt0ZNczLENzHGBWVbyLdsZD1j6ZHr0+v09aluN8kboUG4DI7g/THU+lSQwwxIAB98DOep47/T2xUlLR2IIgzlyG2oMt+eenYcjnP1pmWRS6gnvuYjJ+n/ANarqxIjZXAB6gdDjp+VVzEHJUnkk8dT+HbpUl7FVWef5cnJ79Mf/XNMKMpwY844zk8+9WI7BWYgkqR0B6mrn2M/3j+dUtNiHrvoXhgjFZc9u5bcp6dunHeryE5qftTFsZGBGd7ZwDyD2/ycUW+0EkDAJ4rRkUN1APXr9Kz4fuj/AD3qWXHUuZG4ErkAde4/D0qf5fX9aiSlKj0FFwauf//Z",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on November 14, 2021. May be an image of one or more people and people standing."
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphSidecar",
+              "id": "2706980360693241209",
+              "shortcode": "CWRIEu9FFV5",
+              "dimensions": { "height": 1080, "width": 1080 },
+              "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/256889502_432526398264601_4016895057730584250_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=53-PQsCi5HIAX_UkZAA&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_gQLHBkx9nuB1clES_PMbXDEBLGUtFk0rC5Elcp9hO2g&oe=61F13A31&_nc_sid=7bff83",
+              "edge_media_to_tagged_user": { "edges": [] },
+              "fact_check_overall_rating": null,
+              "fact_check_information": null,
+              "gating_info": null,
+              "sharing_friction_info": {
+                "should_have_sharing_friction": false,
+                "bloks_app_url": null
+              },
+              "media_overlay_info": null,
+              "media_preview": null,
+              "owner": { "id": "13564608757", "username": "mari.obstetriz" },
+              "is_video": false,
+              "has_upcoming_event": false,
+              "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on November 14, 2021. May be an image of child and text that says 'MEU RELATO DE PARTO PARTE 5 >'.",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "Eu tinha muito o desejo de ter o parto fotografado/registrado. J\u00e1 havia combinado com meu irm\u00e3o Jader (@jadermoraisfotografia), que \u00e9 fot\u00f3grafo, de ele registrar o momento t\u00e3o especial do nascimento da minha pequenina Alice. Fiquei ent\u00e3o de avis\u00e1-lo quando estivesse em trabalho de parto. Pedi para o meu marido entrar em contato com ele e avisar que est\u00e1vamos prestes \u00e0 ir para a maternidade.\n.\nAt\u00e9 no mesmo dia, logo mais cedo, enquanto estava na maternidade para realizar o exame de cardiotocografia, eu havia enviado mensagem pra ele e comentado que a Alice poderia chegar a qualquer momento, que estava pr\u00f3ximo, pra ele ficar no jeito que a qualquer momento chamaria ele, mas n\u00e3o imaginava que seria ap\u00f3s algumas horas.\n.\nHavia combinado tamb\u00e9m com minha doula Rebeca (@carinho_demae_doula) de fazer escalda-p\u00e9s e moxabust\u00e3o no dia seguinte, na quinta-feira, para ajudar na indu\u00e7\u00e3o natural do parto, mas n\u00e3o deu tempo porque a Alice chegou antes. E enquanto estava em trabalho de parto, em casa, fui conversando com ela por mensagens, via WhatsApp, e nem deu tempo de ela vir em casa, foi direto pra maternidade.\n.\nOcorreu tudo muito r\u00e1pido! As contra\u00e7\u00f5es evolu\u00edram r\u00e1pido demais!\n.\nUm casal de amigos nos levou at\u00e9 a maternidade. Pedi para o meu marido n\u00e3o ir dirigindo. Durante as contra\u00e7\u00f5es, eu precisava apertar a m\u00e3o de algu\u00e9m. Era o que me ajudava a aliviar a dor.\n.\nAs contra\u00e7\u00f5es estavam muito pr\u00f3ximas uma da outra e muito intensas. Fui gritando no carro. Gritar me aliviava tamb\u00e9m. Era como extravasar aquela sensa\u00e7\u00e3o e gerar um al\u00edvio.\n.\nPor um instante, achei que a Alice nasceria ali, no carro, \u00e0 caminho da maternidade. A maternidade parecia t\u00e3o distante de casa, a sensa\u00e7\u00e3o era de que estava o dobro de dist\u00e2ncia do que realmente \u00e9. No caminho, muitas contra\u00e7\u00f5es, muita dor, muito aperto na m\u00e3o do meu marido e gritos. J\u00e1 perto de chegar na maternidade, comecei a sentir uma press\u00e3o embaixo.\n.\n(Continua..)"
+                    }
+                  }
+                ]
+              },
+              "edge_media_to_comment": { "count": 0 },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1636917227,
+              "edge_liked_by": { "count": 34 },
+              "edge_media_preview_like": { "count": 34 },
+              "location": {
+                "id": "152178748802369",
+                "has_public_page": true,
+                "name": "Campinas, S\u00e3o Paulo",
+                "slug": "campinas-sao-paulo"
+              },
+              "thumbnail_src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/256889502_432526398264601_4016895057730584250_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=53-PQsCi5HIAX_UkZAA&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-sP2r49o5cxKdYnZsvdo2FsPcC8K_BAJptnienQxtoIg&oe=61F2238B&_nc_sid=7bff83",
+              "thumbnail_resources": [
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/256889502_432526398264601_4016895057730584250_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=53-PQsCi5HIAX_UkZAA&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT9QygaHZHUSj2HaQ_INrZcrLoJCrX-6aingO6LaqfucLw&oe=61F1F890&_nc_sid=7bff83",
+                  "config_width": 150,
+                  "config_height": 150
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/256889502_432526398264601_4016895057730584250_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=53-PQsCi5HIAX_UkZAA&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_o_o9Vq3TEdR_V8r8UNlZIriyV8_1huvTs0Tp18UQ6Sg&oe=61F1FA8A&_nc_sid=7bff83",
+                  "config_width": 240,
+                  "config_height": 240
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/256889502_432526398264601_4016895057730584250_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=53-PQsCi5HIAX_UkZAA&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_spbwwJ0e8lPAL3skuChk-o3ImeHVNE45bCfCqbk97pg&oe=61F1C438&_nc_sid=7bff83",
+                  "config_width": 320,
+                  "config_height": 320
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/256889502_432526398264601_4016895057730584250_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=53-PQsCi5HIAX_UkZAA&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_BTPfIHw-hdVW7B1Tl-WLov9-uAcqyQHm6E8TYi3sJDQ&oe=61F16931&_nc_sid=7bff83",
+                  "config_width": 480,
+                  "config_height": 480
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/256889502_432526398264601_4016895057730584250_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=53-PQsCi5HIAX_UkZAA&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-sP2r49o5cxKdYnZsvdo2FsPcC8K_BAJptnienQxtoIg&oe=61F2238B&_nc_sid=7bff83",
+                  "config_width": 640,
+                  "config_height": 640
+                }
+              ],
+              "coauthor_producers": [],
+              "edge_sidecar_to_children": {
+                "edges": [
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2706980356775833188",
+                      "shortcode": "CWRIErTlW5k",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/256889502_432526398264601_4016895057730584250_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=53-PQsCi5HIAX_UkZAA&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_gQLHBkx9nuB1clES_PMbXDEBLGUtFk0rC5Elcp9hO2g&oe=61F13A31&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoqj6UoHm8Lwab5ZbIB6etTNuhUY29Rnk8881m2aKLZE9q4HyYZvUnpVfzCWCPjIBLf/r/Ktx4lUb14wM/Wqk1skq5X5SRwcdc880vUpPsYUsnzcdKg31tLaAAg4kGeQRyPpUf2S29SP+BVVyLX2GpuMjBfmB57/lVox9N4IA/hGTn1z6DP51dVAvTj6Uu4jov45FHKy1JrRIihuN2Ub5c/dB/ljt7VKBgY9KQgt1AoCkdTk0NPsLzGZ2nNBVT6flSOG7DP5VUMU3ofzFCT7MGjUVgOozTt6/3RUdFdAyQMDxgc/wCc1Jtx/Cv51XopBYdt6+1Noopgf//Z",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on November 14, 2021. May be an image of child and text that says 'MEU RELATO DE PARTO PARTE 5 >'."
+                    }
+                  },
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2706980356750759626",
+                      "shortcode": "CWRIErSFtbK",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/248030076_308238384450892_1095595358581031240_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=6zJHbvBwmo0AX-_EzSj&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT8K1nZ0zfLc2uSPSGgg6jZ7jkAKfzZ8BqNd-SaM_oO9CQ&oe=61F1B3E0&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoq0XXcPT9f0pM7ePSs97/GcEe3/wBf/wCt1rRjl3AH1ANQW1YYVDEHuKtRj5RWfNdiNtuM8E1YjuP3YYcDGcHrTQi5ioCeaghu3lzxtA6H1p26hsEjMkt0d9/TPWp55REAU9Me2Pf3rPecgcdqRH3gg85FDXYE+5dkhDMHXHB5z3/z2qxb8KWbGO3esmKbzPkb7w4BPFPgmHm+WCdpYnHBG7HY56ZFIZtscCoN1SuciqJQ+ppMDJ8zPI5pYEkZ9ycKD+H09/6VVPSta1/1Y/H+daGdyJhjhhjPXjr+IpbO3Td5h6fwj39f8Kttzwahk4PHpRaw7lp7gAYFZhvsEjbTST/Kqrj5j9TUIo//2Q==",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on November 14, 2021. May be an image of one or more people, people standing and indoor."
+                    }
+                  },
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2706980356884972218",
+                      "shortcode": "CWRIEraFsK6",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/257483978_4441152435954300_8609168823121224646_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=rhE7Jt0GKL4AX9W3rsg&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT9U2Bcaem95wKgsAgEJO605Sw0M5SFdDDu0j06wmNV2KQ&oe=61F1BE09&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoq3N4qvLIF6/l/WkJ2isi5nEEuXGVkX9Rx/LFTfsP1LwlYvhu/bHSpywBx61StwV5bv93PYen/AOupXf5wPUE/lUlFa5yx9hSqq4HH86eGLA5JAHoAT+tZzSykkhDjPHNPcL2JrmQu0aE4zljz26frU4jS6A387Tkf59+9V5rVXYNk+gB9KmEbjiMYA44OOaV+xVtNdAllZZQmM5xj255NPkb94v8Aut/SoXjk3Kx5PfHb/wDXSyAlt3opHockj1oFbsPSY9c1ZXywBjGKzFXaPmIHsOTT/PH90UX7BbuSvKI/mPVc4+tLFcgpnp7+9U7z734VWYnj6UkrDbu0jSknO3HX0OeaeJ/Ojw3BI71mMeB+NaC9KLlWRVgRTy5xnp6n8+1aO2MdhWdc/eX6/wBKdvb1P50hWP/Z",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on November 14, 2021. May be an image of one or more people, people standing and indoor."
+                    }
+                  },
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2706980356868127398",
+                      "shortcode": "CWRIErZFbqm",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/256365684_6672222452849579_746908782652294347_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=hvDrxp6so9IAX8vXkiy&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_DzbF_0s7s-UgF5l8czpP_7tl63xhxPKhEk49Ll0mPug&oe=61F11025&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoqvy/K249/bP4CiK6LNsIwdobHfGcc02SVQdpPPSqNvbvDMzudwIwD369/pj6VBRsbwazJ0Yt/X/GpBPlsD8TUNxIWBQfe75HPT1pNlJFq0IIIHQHHsT61ZzVKyTy4Qvt/Pn9KkL0ySn8yAMxy39P/AK1Wxz16Vn2+ZoRI/I5yPUD/AD0q156tjaRzzjHb/wCv61OxaSZTn8zO3+H+Y/xp/AGzBAA6/wCe/vUhlBzz09fX/CoDvCBjzn0GMUDvrYmtpGbK5DAHHoat7GrIgBOcf3zWttFMgbbw+VGIyd2Pw70ya0WXnoRUwp9XZE3aM5rTP3uB6/56fWpXASI9wv58VJcfcP41SH3PwrN6M1XvIbZODuHq2fzrWrMtgAfz/lWiOlMg/9k=",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on November 14, 2021. May be an image of one or more people, people standing and indoor."
+                    }
+                  },
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2706980356767561166",
+                      "shortcode": "CWRIErTFzXO",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/256377420_4315742115203829_4780654338469669936_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=sevp2-I0_hsAX9rQqdc&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT99qZRzcANypoWWUGXSJdRtjxanlRB5n23I3sjpGrB6eg&oe=61F1A630&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoqnS6Rm2jk1OVDc+lZtraBXyxDf56mrtwrCMiLBb0zjPrzUFu3QvJ90VFHMWkKj7oGfb2Of6Vn29wQmZSeTgDHA47f/XpbMCDjduY9T7dhRcVjUmcZGSBUNZF3ueT5c5z6flThaTY+/j86Nx7EUEy5BJxnGP8ACrJVXbOcBeTx1/GsR1KMHXjHP0rRhkYjBwmRnPX6fSmxLzHm4jC+XjKnnI9+/wCfpTIhHO3zEgqB7A/X/wCtVny+P4T+FQmFQP3h7j7vXH4D+dKzGmjQjcSfOCCBkZ9+9OLCq6uFGY8bTzj+v/66gPmk9F/OkBjeYenOKlSXn68fhVLNSIcBj7f1rQg02mMQ2Zznp6j6f0qONWY4Dbc85/x9TVeM5Qg9ACR+VWl6j6H+lS2NI0PJyMAjPY1UPnA42Z/EVYi6U6pKP//Z",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on November 14, 2021. May be an image of one or more people, people standing and indoor."
+                    }
+                  },
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2706980356784156359",
+                      "shortcode": "CWRIErUFG7H",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/256427886_1014924675730814_4194385171411283714_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=Yh2UrUI9FzkAX83Vld6&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT9eDZcf17UbMMz93oc6VzcIi5CiNGeapU3gBS-TK0HNIw&oe=61F1B838&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoqtgYT61MANh7kmnqQPaq810EYKB+NSMjkcREZOD6YJ/lVy3mWRA3Q+n+fzqk1wJ0JhO4rkY9//r+tVNOb92ztx83T8BQM3iykYPI9xVYwQf3V/KmmQA7SRn0qPNFwK0dwoQZYFu+T6mq1zKJfk5x7Efz7Z6Yp7QCVcNz+AojtNvB+7zkj/P61NmUpIjgnJcKo2jir08yAENx/n2qqY0wPLYADqD6/0qizEglm/Drn/P40DdmToS0m5OgOSf6Z9T6Vc82oUkC2+0c45/HvVTzaCW7llJuKPtGcAHnvVPuagj+8frWhBPcMo5HU9RUUREhweAKsyKPKJwM5NFooMDnAzn+lZ2NU9USKmAQpz7Vn7qljJxVZup+tCFI//9k=",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on November 14, 2021. May be an image of one or more people, people standing and indoor."
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphSidecar",
+              "id": "2706978221220938555",
+              "shortcode": "CWRHlmal8M7",
+              "dimensions": { "height": 1080, "width": 1080 },
+              "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/257818178_583326499418026_1685459941413162408_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=JKFlH1-UudwAX8SNzfi&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_Xi2UWFKDIPCpZNmjevQpk4352Zn3_YX3ev294rakpvA&oe=61F2C84C&_nc_sid=7bff83",
+              "edge_media_to_tagged_user": { "edges": [] },
+              "fact_check_overall_rating": null,
+              "fact_check_information": null,
+              "gating_info": null,
+              "sharing_friction_info": {
+                "should_have_sharing_friction": false,
+                "bloks_app_url": null
+              },
+              "media_overlay_info": null,
+              "media_preview": null,
+              "owner": { "id": "13564608757", "username": "mari.obstetriz" },
+              "is_video": false,
+              "has_upcoming_event": false,
+              "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on November 14, 2021. May be an image of child and text that says 'MEU RELATO DE PARTO PARTE >>>'.",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "Entrei no banho quente e o sangue escorria, at\u00e9 mesmo com presen\u00e7a de co\u00e1gulos, e eu n\u00e3o suportei a \u00e1gua caindo, encostando em mim, durante as contra\u00e7\u00f5es. \"Abri o chuveirinho\" para a \u00e1gua n\u00e3o cair direto em mim, mas o chuveiro pingava e at\u00e9 os pingos me incomodavam. O banho foi r\u00e1pido. Antes de sair do banho, mais uma contra\u00e7\u00e3o, que me encolhi no cantinho do box para que nenhum pingo de \u00e1gua ca\u00edsse em mim. Desliguei o chuveiro, me sequei e as contra\u00e7\u00f5es \u00e0 todo vapor, continuavam a vir fortes e intensas.\n.\nO que me aliviou durante as contra\u00e7\u00f5es foi \"esmagar\" as m\u00e3os do meu marido (eu apertava t\u00e3o forte rsrs) e segurar (meio que me pendurando) no pesco\u00e7o dele e encostando minha cabe\u00e7a no peito dele e soltando o peso do meu corpo.\n.\nEu j\u00e1 estava exausta, ap\u00f3s as contra\u00e7\u00f5es eu sentia meu corpo mole, sem for\u00e7as. Tudo o que eu queria era descansar, dormir e relaxar.\n.\nQuando estava me trocando, ap\u00f3s o banho, mais uma contra\u00e7\u00e3o e senti um estouro do tipo \"ploft\", a sensa\u00e7\u00e3o de uma bexiga estourando, e logo escorreu pelas minhas pernas aquele \"l\u00edquido quentinho\". Olhei para o meu marido e disse \"a bolsa estourou\".\n.\nEnquanto eu estava no banho, ele foi terminando de ajeitar a mala da maternidade. J\u00e1 estava tudo preparado, s\u00f3 faltava fechar com as coisinhas de uso di\u00e1rio (escova de dentes, escova de cabelo, etc). \n.\nAs contra\u00e7\u00f5es vinham com pequenos intervalos entre uma e outra, era o tempo de respirar e j\u00e1 vinha outra, e era sangue cor vermelho vivo e co\u00e1gulos que escorriam pelas minhas pernas.\n.\nSentei no tapete do quarto, j\u00e1 n\u00e3o aguentava mais, sentia o corpo sem for\u00e7as, estava cansada. Tudo o que eu queria era deitar e dormir um pouco. Eu ia voltar para o banho, pra me lavar, limpar todo aquele sangue escorrido pelas pernas, pra que eu pudesse vestir a roupa e ir \u00e0 maternidade. Estava sentada no tapete e n\u00e3o consegui levantar e voltar para o chuveiro por causa do cansa\u00e7o, da exaust\u00e3o. Meu marido ent\u00e3o molhou uma toalha e foi o que me ajudou a me limpar e vestir a roupa.\n.\n(Continua..)"
+                    }
+                  }
+                ]
+              },
+              "edge_media_to_comment": { "count": 4 },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1636916972,
+              "edge_liked_by": { "count": 43 },
+              "edge_media_preview_like": { "count": 43 },
+              "location": {
+                "id": "152178748802369",
+                "has_public_page": true,
+                "name": "Campinas, S\u00e3o Paulo",
+                "slug": "campinas-sao-paulo"
+              },
+              "thumbnail_src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/257818178_583326499418026_1685459941413162408_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=JKFlH1-UudwAX8SNzfi&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT9m8cnRal_Ap3jInSWQA2P8K2t6LTgzSAu-CIFA_qJFsg&oe=61F2D872&_nc_sid=7bff83",
+              "thumbnail_resources": [
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/257818178_583326499418026_1685459941413162408_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=JKFlH1-UudwAX8SNzfi&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_MY9aC8glipl8QTbL2cFEJd1VvnBkhmXVA99amrJ_0TQ&oe=61F14135&_nc_sid=7bff83",
+                  "config_width": 150,
+                  "config_height": 150
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/257818178_583326499418026_1685459941413162408_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=JKFlH1-UudwAX8SNzfi&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_fvtx4UFSTKgJVk2z6-JyXIqR3lZ8R4N9qAmy50ot7aA&oe=61F16533&_nc_sid=7bff83",
+                  "config_width": 240,
+                  "config_height": 240
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/257818178_583326499418026_1685459941413162408_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=JKFlH1-UudwAX8SNzfi&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT8JF9XiF9rmsGud-iCAWCYysyHFP7lO_D53PAwIORjkFg&oe=61F2758D&_nc_sid=7bff83",
+                  "config_width": 320,
+                  "config_height": 320
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/257818178_583326499418026_1685459941413162408_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=JKFlH1-UudwAX8SNzfi&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-wAzOKPT5SIAi4SNeBJGdUyK7U7loL5UO9-TBJFZH5QQ&oe=61F1A1CC&_nc_sid=7bff83",
+                  "config_width": 480,
+                  "config_height": 480
+                },
+                {
+                  "src": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/257818178_583326499418026_1685459941413162408_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=JKFlH1-UudwAX8SNzfi&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT9m8cnRal_Ap3jInSWQA2P8K2t6LTgzSAu-CIFA_qJFsg&oe=61F2D872&_nc_sid=7bff83",
+                  "config_width": 640,
+                  "config_height": 640
+                }
+              ],
+              "coauthor_producers": [],
+              "edge_sidecar_to_children": {
+                "edges": [
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2706978217739481057",
+                      "shortcode": "CWRHljLFO_h",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/257818178_583326499418026_1685459941413162408_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=JKFlH1-UudwAX8SNzfi&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_Xi2UWFKDIPCpZNmjevQpk4352Zn3_YX3ev294rakpvA&oe=61F2C84C&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoqj6UoHm8Lwab5ZbIB6etTNuhUY29Rnk8881m2aKLZE9q4HyYZvUnpVfzCWCPjIBLf/r/Ktx4lUb14wM/Wqk1skq5X5SRwcdc880vUpPsYUsnzcdKg31tLaAAg4kGeQRyPpUf2S29SP+BVVyLX2GpuMjBfmB57/lVox9N4IA/hGTn1z6DP51dVAvTj6Uu4jov45FHKy1JrRIihuN2Ub5c/dB/ljt7VKBgY9KQgt1AoCkdTk0NPsLzGZ2nNBVT6flSOG7DP5VUMU3ofzFCT7MGjUVgOozTt6/3RUdFdAyQMDxgc/wCc1IVx/Cv51XopBYdt6+1Noopgf//Z",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on November 14, 2021. May be an image of child and text that says 'MEU RELATO DE PARTO PARTE >>>'."
+                    }
+                  },
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2706978217831849164",
+                      "shortcode": "CWRHljQllzM",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/256834220_2727084517595386_204901590597505554_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=GZPs2s52u-QAX9PtTbV&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT8dZ-vrDcf6OS-x9BbRgV8638bbHitilkhE6FKxDhKvxg&oe=61F27C6F&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoq1ByM0VGr560pfGPesyxjYTJPc1XnmCrnofemXQE4BU4ZD0z/ACPrUTyBo9rYJx1J744+vNAi9bOJE3jvUuazYXEKAKRjHT1q19pWncLFLzwvPIPHHTNQtdtkhsEHoPT/ABqlOWY88ZAxS2hAkHmdCCD/AJ9aLdQv0LvnMQTgoCOvP6dKrpCJMnJGPxNTONjeWhyDzk9abjyfnZuDx0qStiupRDlSXI9BUZfPc1GMK27tk0pIzVEFxrBidwcH65pYoFiBZiHYdAOn/wCupc5UfU/zpBSuOwkRYsXfjp+FQ3I83AU8cnpU7VHQMqiLA9aZ5Jq2aZTuKx//2Q==",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on November 14, 2021. May be an image of one or more people, people standing, hospital and indoor."
+                    }
+                  },
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2706978217714358226",
+                      "shortcode": "CWRHljJlZfS",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/256008068_1716137852110399_4923175882852438551_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=u_IYlW_3VKoAX_N1fkl&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-fM7L4sAXyk2b8YXAXiNr760fupeW_SnQnmxvjNh3lbA&oe=61F10368&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoq1Y8AVAl2WkKEYGeKUGse/l8o5wQW5U5OP/1j/wCvUjOkDVg6nFuYv2HU/wCeaupKVUAnJx/n8arunngg8AkEevH+cUXAZaE+UBjA4x+eaHm+Y/U1aIyOOg6fyqPI9qQyUyKuSTgVFJGJkBODjBHGfx/KpDEu3DDP509Sqr+n5dqW5VralCTaMbjn0/z71UjkYbhzkn5fXpWgQF+duOccjtnp+PFVJf3UhA6dR/n60hu26NGJHMYVuP8AD0PvUmwU2GXcgZuCaXPvVElFpJMgEDpywz174qISGNSG4OSPcZ/z/wDXqwDxVO9PCn60ONhqV9x/mkOp5Kg5I7fU/Sn3eAVP1/pREP3Q9xVWc/uk/wA9qlDloa8gBTI7gEfSqO6ran9wP90VSFMk/9k=",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on November 14, 2021. May be an image of one or more people and people standing."
+                    }
+                  },
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2706978217731233431",
+                      "shortcode": "CWRHljKlxaX",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/256921305_415115266770228_8351827475573106733_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=0GxfdMWrFuUAX--h6HI&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-KyDBG_soplDi0DCillxJM2gZVy0OljOyApXc0gCekaA&oe=61F1C70C&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoq0TMoGSMVD58chAzyO1ZsJkO4PuI29+OR1/Oo9sgO5GU+gwMfiev61Fy0r7EtzJ5QJ3dei4xk5/M1oIxkXD/jVOa0a5VWOAQc/wCI/Gl88ISWzgD9aBDZbMsdowFJ+nH4frU/kRjjA49hU0bkpuYbSegPYds+9QFh6n8qAMo3J6/N+dTx/vVBAOD3+nuKasORwKswlo49kg+XJ6dcZ60mVG6LSyYjAHPHPt9aqOymTKjfJjp2HvVWWfJ2gnH0qCFwkgPb/PWgem5uyXCx4EuAxGeOR/j+NVDqEfqfyqtdvlgT6EVT+X0pkGpu3DHY8UjKWOEbP1HIH9aiXoajhJ3Sf7lOQ4vUiktX37VIbJ7VZVFQ+WwGR+tKnUHvuX+VRT/fP1P86jcvZjLxMYH5VQxV24OcfSqtUtjOW5//2Q==",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on November 14, 2021. May be an image of one or more people, people standing and indoor."
+                    }
+                  },
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2706978217747849468",
+                      "shortcode": "CWRHljLlKD8",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/257402205_377241470852863_2132663578677442411_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=tB353DBhpSoAX-U3cR4&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_sHbIK9se3NkZEhk70W25qYpntmTVGZ0KzOS68krpWIg&oe=61F26822&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoquQXKTDjOR1Bp/l4+bvms/T7NuScjOODx7/UVrMjbQB1zQBcXhR9P6VSs53kdlboAD1yMk/QflWVdlo5QxcgcAEY9Oh7/AF7U+zSS3DSsc+mPT1IoA3pfu1V3CqGozGRFwccZx6msYFv8mgDTt55CpAOAf6UJdSvJsB3f8BH6+lZdtdNu2rwMH65rTikKAs7j5sYBPSgBCib90mS2fu/qT7jP5AHrTriUysqr91uOP0/Cq4zksHBLex49qgVihyCck9cD/H/69AGnDAANjEuSc5PGOO3oMVcDY4A47VnWrNEpd921uhPOOfbnHpxV4Sp6j86AOUMW05H86uqVhYYOQfXkfjVAVIDmgDZinQsUYKG9uh+mf5USyRxjLKPYY5NYp+6PpUshJIzzwP5UAX/tZYgqwHYr2+mfWpd6f3R+lZVuMsc+1XqAP//Z",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on November 14, 2021. May be a black-and-white image of one or more people, people standing and indoor."
+                    }
+                  },
+                  {
+                    "node": {
+                      "__typename": "GraphImage",
+                      "id": "2706978217773162866",
+                      "shortcode": "CWRHljNFuFy",
+                      "dimensions": { "height": 1080, "width": 1080 },
+                      "display_url": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.2885-15/e35/248437992_592570301797279_8045742408167543019_n.jpg?_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=TOPRYlFp57IAX_mHSU4&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT99Lh0r15URWiIDFjY7JboqsTTK4BXkbxDTiUwb2dhuJg&oe=61F2BEE0&_nc_sid=7bff83",
+                      "edge_media_to_tagged_user": { "edges": [] },
+                      "fact_check_overall_rating": null,
+                      "fact_check_information": null,
+                      "gating_info": null,
+                      "sharing_friction_info": {
+                        "should_have_sharing_friction": false,
+                        "bloks_app_url": null
+                      },
+                      "media_overlay_info": null,
+                      "media_preview": "ACoqsiUDOe3+c1aQ7uetQlD1UZyKfCrL94c98A4/+tSe4IezAZPpWXPdFjgdef5VYluAmS4OBnt2HBz/AJ+lZzbCQ3PJ43cf/rHNQXYs21xt2ofvOT+lbAWsSGJ0lViPU/4CtAu2etMTIYbgFAw/9C5qzHIZPXA981kQxM8YK4598Vbt2aD5X4Dfic45OeeD6cYoAdcRecck4AOD9PSq10iuAAMsnKj+n44q07lBx/ESfpn+tZMpyRsyPVjSL30LkE7s5DqVzx0/rWgU9v51hxSzudiHcB3Pb8aub5hxuP8A3yKBOxSGB6D61ftUBRn6noMHjkc/iKhiRWzuAP1Ga0kULHhQAMHpxQSZc047EufU/wBKhtYTO+1zgAZ46/59aav3R9Kktj++H0NJGr20NUKluuFGBVQ3a561Jd/6tvpVoAYpmR//2Q==",
+                      "owner": {
+                        "id": "13564608757",
+                        "username": "mari.obstetriz"
+                      },
+                      "is_video": false,
+                      "has_upcoming_event": false,
+                      "accessibility_caption": "Photo by Mariane | Obstetriz & Doula on November 14, 2021. May be an image of one or more people and indoor."
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "edge_saved_media": {
+        "count": 0,
+        "page_info": { "has_next_page": false, "end_cursor": null },
+        "edges": []
+      },
+      "edge_media_collections": {
+        "count": 0,
+        "page_info": { "has_next_page": false, "end_cursor": null },
+        "edges": []
+      },
+      "edge_related_profiles": { "edges": [] }
+    }
+  },
+  "toast_content_on_load": null,
+  "show_view_shop": false,
+  "profile_pic_edit_sync_props": {
+    "show_change_profile_pic_confirm_dialog": false,
+    "show_profile_pic_sync_reminders": false,
+    "identity_id": "",
+    "remove_profile_pic_header": null,
+    "remove_profile_pic_subtext": null,
+    "remove_profile_pic_confirm_cta": null,
+    "remove_profile_pic_cancel_cta": null,
+    "is_business_central_identity": false,
+    "change_profile_pic_actions_screen_header": [
+      "A",
+      "l",
+      "t",
+      "e",
+      "r",
+      "a",
+      "r",
+      " ",
+      "f",
+      "o",
+      "t",
+      "o",
+      " ",
+      "d",
+      "o",
+      " ",
+      "p",
+      "e",
+      "r",
+      "f",
+      "i",
+      "l"
+    ],
+    "change_profile_pic_actions_screen_subheader": [
+      "I",
+      "n",
+      "s",
+      "t",
+      "a",
+      "g",
+      "r",
+      "a",
+      "m",
+      ",",
+      " ",
+      "F",
+      "a",
+      "c",
+      "e",
+      "b",
+      "o",
+      "o",
+      "k"
+    ],
+    "change_profile_pic_actions_screen_upload_cta": [
+      "C",
+      "a",
+      "r",
+      "r",
+      "e",
+      "g",
+      "a",
+      "r",
+      " ",
+      "f",
+      "o",
+      "t",
+      "o"
+    ],
+    "change_profile_pic_actions_screen_remove_cta": [
+      "R",
+      "e",
+      "m",
+      "o",
+      "v",
+      "e",
+      "r",
+      " ",
+      "f",
+      "o",
+      "t",
+      "o",
+      " ",
+      "a",
+      "t",
+      "u",
+      "a",
+      "l"
+    ],
+    "change_profile_pic_actions_screen_cancel_cta": [
+      "C",
+      "a",
+      "n",
+      "c",
+      "e",
+      "l",
+      "a",
+      "r"
+    ]
+  },
+  "always_show_message_button_to_pro_account": false
+}
